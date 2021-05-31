@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.exe
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.dll
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\bin\Debug\net5.0\ref\10. Rage Expenses.dll
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.dll
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\obj\Debug\net5.0\ref\10. Rage Expenses.dll
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Basic Syntax Conditional Statements and Loops-Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.genruntimeconfig.cache
