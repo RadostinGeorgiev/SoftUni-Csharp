@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\03. Elevator.exe
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\03. Elevator.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\03. Elevator.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\03. Elevator.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\03. Elevator.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\ref\03. Elevator.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\03. Elevator.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\ref\03. Elevator.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.genruntimeconfig.cache

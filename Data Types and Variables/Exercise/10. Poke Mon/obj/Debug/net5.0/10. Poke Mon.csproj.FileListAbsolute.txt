@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.exe
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\net5.0\ref\10. Poke Mon.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net5.0\ref\10. Poke Mon.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.genruntimeconfig.cache
