@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.exe
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\ref\01. Data Type Finder.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\ref\01. Data Type Finder.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.genruntimeconfig.cache
