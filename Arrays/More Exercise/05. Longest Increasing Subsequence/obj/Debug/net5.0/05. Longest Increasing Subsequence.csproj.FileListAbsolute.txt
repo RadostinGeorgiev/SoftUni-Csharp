@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.exe
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\ref\05. Longest Increasing Subsequence.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\ref\05. Longest Increasing Subsequence.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - More Exercise\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.genruntimeconfig.cache
