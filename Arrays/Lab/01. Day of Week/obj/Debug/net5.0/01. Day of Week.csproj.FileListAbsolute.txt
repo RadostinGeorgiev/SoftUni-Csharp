@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.exe
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\ref\01. Day of Week.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\ref\01. Day of Week.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.genruntimeconfig.cache

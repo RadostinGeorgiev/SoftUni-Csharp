@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.exe
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\ref\03. Rounding Numbers.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\ref\03. Rounding Numbers.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.genruntimeconfig.cache
