@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.exe
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\ref\02. Center Point.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\bin\Debug\net5.0\02. Center Point.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\ref\02. Center Point.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\02. Center Point\obj\Debug\net5.0\02. Center Point.genruntimeconfig.cache

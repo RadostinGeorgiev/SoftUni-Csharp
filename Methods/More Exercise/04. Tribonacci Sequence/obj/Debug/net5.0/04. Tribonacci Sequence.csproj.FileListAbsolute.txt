@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.exe
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\ref\04. Tribonacci Sequence.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\net5.0\04. Tribonacci Sequence.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\ref\04. Tribonacci Sequence.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\net5.0\04. Tribonacci Sequence.genruntimeconfig.cache
