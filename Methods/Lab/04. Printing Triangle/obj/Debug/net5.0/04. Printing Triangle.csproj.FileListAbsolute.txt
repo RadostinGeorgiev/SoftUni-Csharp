@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.exe
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\ref\04. Printing Triangle.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\ref\04. Printing Triangle.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.genruntimeconfig.cache

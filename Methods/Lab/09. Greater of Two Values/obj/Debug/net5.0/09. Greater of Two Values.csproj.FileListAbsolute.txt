@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.exe
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\ref\09. Greater of Two Values.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\bin\Debug\net5.0\09. Greater of Two Values.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\ref\09. Greater of Two Values.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Lab\09. Greater of Two Values\obj\Debug\net5.0\09. Greater of Two Values.genruntimeconfig.cache
