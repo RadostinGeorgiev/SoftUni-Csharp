@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.exe
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\ref\08. Factorial Division.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\ref\08. Factorial Division.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.genruntimeconfig.cache
