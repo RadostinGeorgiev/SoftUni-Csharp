@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.exe
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.dll
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\ref\09. Pokemon Don't Go.dll
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.dll
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\ref\09. Pokemon Don't Go.dll
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.genruntimeconfig.cache
