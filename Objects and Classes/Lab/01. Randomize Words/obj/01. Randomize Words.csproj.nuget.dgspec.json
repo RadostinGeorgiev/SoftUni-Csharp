@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Fundamentals\\C#\\Problems\\Objects and Classes - Lab\\01. Randomize Words\\01. Randomize Words.csproj": {}
+    "D:\\Documents\\GitHub\\C-Fundamentals\\Objects and Classes\\Lab\\01. Randomize Words\\01. Randomize Words.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Fundamentals\\C#\\Problems\\Objects and Classes - Lab\\01. Randomize Words\\01. Randomize Words.csproj": {
+    "D:\\Documents\\GitHub\\C-Fundamentals\\Objects and Classes\\Lab\\01. Randomize Words\\01. Randomize Words.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Fundamentals\\C#\\Problems\\Objects and Classes - Lab\\01. Randomize Words\\01. Randomize Words.csproj",
+        "projectUniqueName": "D:\\Documents\\GitHub\\C-Fundamentals\\Objects and Classes\\Lab\\01. Randomize Words\\01. Randomize Words.csproj",
         "projectName": "01. Randomize Words",
-        "projectPath": "D:\\SoftUni\\Fundamentals\\C#\\Problems\\Objects and Classes - Lab\\01. Randomize Words\\01. Randomize Words.csproj",
+        "projectPath": "D:\\Documents\\GitHub\\C-Fundamentals\\Objects and Classes\\Lab\\01. Randomize Words\\01. Randomize Words.csproj",
         "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Fundamentals\\C#\\Problems\\Objects and Classes - Lab\\01. Randomize Words\\obj\\",
+        "outputPath": "D:\\Documents\\GitHub\\C-Fundamentals\\Objects and Classes\\Lab\\01. Randomize Words\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

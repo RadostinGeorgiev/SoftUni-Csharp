@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Fundamentals\\C#\\Problems\\Objects and Classes - Lab\\02. Big Factorial\\02. Big Factorial.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub\\C-Fundamentals\\Objects and Classes\\Lab\\02. Big Factorial\\02. Big Factorial.csproj",
       "projectName": "02. Big Factorial",
-      "projectPath": "D:\\SoftUni\\Fundamentals\\C#\\Problems\\Objects and Classes - Lab\\02. Big Factorial\\02. Big Factorial.csproj",
+      "projectPath": "D:\\Documents\\GitHub\\C-Fundamentals\\Objects and Classes\\Lab\\02. Big Factorial\\02. Big Factorial.csproj",
       "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Fundamentals\\C#\\Problems\\Objects and Classes - Lab\\02. Big Factorial\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub\\C-Fundamentals\\Objects and Classes\\Lab\\02. Big Factorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
