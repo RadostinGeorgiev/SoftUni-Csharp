@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\net5.0\1. Winning Ticket.exe
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\net5.0\1. Winning Ticket.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\net5.0\1. Winning Ticket.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\net5.0\1. Winning Ticket.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\net5.0\1. Winning Ticket.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\net5.0\ref\1. Winning Ticket.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\net5.0\1. Winning Ticket.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net5.0\ref\1. Winning Ticket.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net5.0\1. Winning Ticket.genruntimeconfig.cache

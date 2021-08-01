@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.exe
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\ref\01. Match Full Name.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\ref\01. Match Full Name.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.genruntimeconfig.cache

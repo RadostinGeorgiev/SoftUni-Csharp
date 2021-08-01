@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.exe
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\ref\02. Match Phone Number.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\ref\02. Match Phone Number.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.genruntimeconfig.cache
