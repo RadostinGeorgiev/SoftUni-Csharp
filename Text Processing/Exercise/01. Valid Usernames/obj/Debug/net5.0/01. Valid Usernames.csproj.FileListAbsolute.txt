@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\01. Valid Usernames.exe
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\01. Valid Usernames.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\01. Valid Usernames.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\01. Valid Usernames.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\01. Valid Usernames.dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\ref\01. Valid Usernames.dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net5.0\01. Valid Usernames.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\ref\01. Valid Usernames.dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net5.0\01. Valid Usernames.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\bin\Debug\net5.0\01. Extract Person Information (2).exe
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\bin\Debug\net5.0\01. Extract Person Information (2).deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\bin\Debug\net5.0\01. Extract Person Information (2).runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\bin\Debug\net5.0\01. Extract Person Information (2).runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\bin\Debug\net5.0\01. Extract Person Information (2).dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\bin\Debug\net5.0\ref\01. Extract Person Information (2).dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\bin\Debug\net5.0\01. Extract Person Information (2).pdb
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\obj\Debug\net5.0\01. Extract Person Information (2).csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\obj\Debug\net5.0\01. Extract Person Information (2).GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\obj\Debug\net5.0\01. Extract Person Information (2).AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\obj\Debug\net5.0\01. Extract Person Information (2).AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\obj\Debug\net5.0\01. Extract Person Information (2).csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\obj\Debug\net5.0\01. Extract Person Information (2).dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\obj\Debug\net5.0\ref\01. Extract Person Information (2).dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\obj\Debug\net5.0\01. Extract Person Information (2).pdb
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\01. Extract Person Information (2)\obj\Debug\net5.0\01. Extract Person Information (2).genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\bin\Debug\net5.0\07. String Explosion (2).exe
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\bin\Debug\net5.0\07. String Explosion (2).deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\bin\Debug\net5.0\07. String Explosion (2).runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\bin\Debug\net5.0\07. String Explosion (2).runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\bin\Debug\net5.0\07. String Explosion (2).dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\bin\Debug\net5.0\ref\07. String Explosion (2).dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\bin\Debug\net5.0\07. String Explosion (2).pdb
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\obj\Debug\net5.0\07. String Explosion (2).csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\obj\Debug\net5.0\07. String Explosion (2).GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\obj\Debug\net5.0\07. String Explosion (2).AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\obj\Debug\net5.0\07. String Explosion (2).AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\obj\Debug\net5.0\07. String Explosion (2).csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\obj\Debug\net5.0\07. String Explosion (2).dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\obj\Debug\net5.0\ref\07. String Explosion (2).dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\obj\Debug\net5.0\07. String Explosion (2).pdb
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Exercise\07. String Explosion (2)\obj\Debug\net5.0\07. String Explosion (2).genruntimeconfig.cache

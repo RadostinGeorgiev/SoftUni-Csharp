@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.exe
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\ref\02. Repeat Strings.dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\ref\02. Repeat Strings.dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - Lab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.genruntimeconfig.cache
