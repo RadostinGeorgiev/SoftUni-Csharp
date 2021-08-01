@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\net5.0\02. Oldest Family Member.exe
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\net5.0\02. Oldest Family Member.deps.json
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\net5.0\02. Oldest Family Member.runtimeconfig.json
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\net5.0\02. Oldest Family Member.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\net5.0\02. Oldest Family Member.dll
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\net5.0\ref\02. Oldest Family Member.dll
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\net5.0\02. Oldest Family Member.pdb
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.dll
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net5.0\ref\02. Oldest Family Member.dll
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.pdb
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\net5.0\02. Oldest Family Member.genruntimeconfig.cache

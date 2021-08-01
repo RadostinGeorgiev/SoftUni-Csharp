@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.exe
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.dll
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\ref\01. Advertisement Message.dll
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.dll
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\ref\01. Advertisement Message.dll
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.genruntimeconfig.cache
