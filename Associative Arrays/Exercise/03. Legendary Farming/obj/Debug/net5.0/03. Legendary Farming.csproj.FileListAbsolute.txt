@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.exe
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.deps.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.runtimeconfig.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\ref\03. Legendary Farming.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.pdb
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\ref\03. Legendary Farming.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.pdb
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.genruntimeconfig.cache

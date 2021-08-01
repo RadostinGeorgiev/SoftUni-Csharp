@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.exe
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.deps.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.runtimeconfig.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\ref\06. Courses.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.pdb
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\ref\06. Courses.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.pdb
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.genruntimeconfig.cache

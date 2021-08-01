@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.exe
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.deps.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.runtimeconfig.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\ref\01. Count Chars in a String.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.pdb
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\ref\01. Count Chars in a String.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.pdb
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.genruntimeconfig.cache
