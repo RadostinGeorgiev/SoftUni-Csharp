@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\02. Shopping List.exe
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\02. Shopping List.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\02. Shopping List.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\02. Shopping List.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\02. Shopping List.dll
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\ref\02. Shopping List.dll
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\bin\Debug\net5.0\02. Shopping List.pdb
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.dll
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\ref\02. Shopping List.dll
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.pdb
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\02. Shopping List\obj\Debug\net5.0\02. Shopping List.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.exe
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.dll
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\net5.0\ref\03. Heart Delivery.dll
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\net5.0\03. Heart Delivery.pdb
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.dll
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\net5.0\ref\03. Heart Delivery.dll
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.pdb
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\net5.0\03. Heart Delivery.genruntimeconfig.cache

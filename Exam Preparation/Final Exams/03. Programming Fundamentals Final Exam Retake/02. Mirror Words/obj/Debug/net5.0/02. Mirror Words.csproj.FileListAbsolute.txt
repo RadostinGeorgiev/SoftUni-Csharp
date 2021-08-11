@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.exe
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.deps.json
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.runtimeconfig.json
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.dll
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\ref\02. Mirror Words.dll
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\bin\Debug\net5.0\02. Mirror Words.pdb
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.AssemblyInfo.cs
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.dll
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\ref\02. Mirror Words.dll
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.pdb
+C:\Users\Professional\source\repos\03. Programming Fundamentals Final Exam Retake\02. Mirror Words\obj\Debug\net5.0\02. Mirror Words.genruntimeconfig.cache

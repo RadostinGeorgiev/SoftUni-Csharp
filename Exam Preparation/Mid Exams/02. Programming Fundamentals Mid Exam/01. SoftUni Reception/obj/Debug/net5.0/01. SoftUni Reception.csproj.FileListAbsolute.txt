@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.exe
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.deps.json
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.runtimeconfig.json
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.dll
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\ref\01. SoftUni Reception.dll
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\bin\Debug\net5.0\01. SoftUni Reception.pdb
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.AssemblyInfo.cs
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.dll
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\ref\01. SoftUni Reception.dll
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.pdb
+C:\Users\Professional\source\repos\02. Programming Fundamentals Mid Exam\01. SoftUni Reception\obj\Debug\net5.0\01. SoftUni Reception.genruntimeconfig.cache

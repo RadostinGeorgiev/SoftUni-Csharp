@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\bin\Debug\net5.0\01. National Court.exe
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\bin\Debug\net5.0\01. National Court.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\bin\Debug\net5.0\01. National Court.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\bin\Debug\net5.0\01. National Court.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\bin\Debug\net5.0\01. National Court.dll
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\bin\Debug\net5.0\ref\01. National Court.dll
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\bin\Debug\net5.0\01. National Court.pdb
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\obj\Debug\net5.0\01. National Court.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\obj\Debug\net5.0\01. National Court.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\obj\Debug\net5.0\01. National Court.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\obj\Debug\net5.0\01. National Court.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\obj\Debug\net5.0\01. National Court.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\obj\Debug\net5.0\01. National Court.dll
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\obj\Debug\net5.0\ref\01. National Court.dll
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\obj\Debug\net5.0\01. National Court.pdb
+D:\SoftUni\Fundamentals\C#\Problems\04. Programming Fundamentals Mid Exam\01. National Court\obj\Debug\net5.0\01. National Court.genruntimeconfig.cache

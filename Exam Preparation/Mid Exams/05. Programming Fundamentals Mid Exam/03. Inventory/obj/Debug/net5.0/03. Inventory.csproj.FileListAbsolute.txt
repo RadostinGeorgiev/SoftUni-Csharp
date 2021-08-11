@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\03. Inventory.exe
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\03. Inventory.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\03. Inventory.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\03. Inventory.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\03. Inventory.dll
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\ref\03. Inventory.dll
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\bin\Debug\net5.0\03. Inventory.pdb
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.dll
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\ref\03. Inventory.dll
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.pdb
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Mid Exam\03. Inventory\obj\Debug\net5.0\03. Inventory.genruntimeconfig.cache

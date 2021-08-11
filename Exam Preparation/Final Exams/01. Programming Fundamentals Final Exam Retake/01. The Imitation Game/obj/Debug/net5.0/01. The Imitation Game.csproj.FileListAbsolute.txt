@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.exe
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.deps.json
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.runtimeconfig.json
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.dll
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\bin\Debug\net5.0\ref\01. The Imitation Game.dll
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.pdb
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.AssemblyInfo.cs
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.dll
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\obj\Debug\net5.0\ref\01. The Imitation Game.dll
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.pdb
+C:\Users\Professional\source\repos\01. Programming Fundamentals Final Exam Retake\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.genruntimeconfig.cache
