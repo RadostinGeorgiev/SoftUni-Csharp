@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = _10._SoftUni_Exam_Results
+build_property.ProjectDir = D:\Documents\GitHub\C-Fundamentals\Associative Arrays\Exercise\10. SoftUni Exam Results\

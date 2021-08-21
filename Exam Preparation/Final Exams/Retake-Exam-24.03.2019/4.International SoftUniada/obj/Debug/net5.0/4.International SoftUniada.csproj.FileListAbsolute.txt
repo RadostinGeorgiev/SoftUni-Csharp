@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\bin\Debug\net5.0\4.International SoftUniada.exe
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\bin\Debug\net5.0\4.International SoftUniada.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\bin\Debug\net5.0\4.International SoftUniada.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\bin\Debug\net5.0\4.International SoftUniada.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\bin\Debug\net5.0\4.International SoftUniada.dll
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\bin\Debug\net5.0\ref\4.International SoftUniada.dll
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\bin\Debug\net5.0\4.International SoftUniada.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\obj\Debug\net5.0\4.International SoftUniada.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\obj\Debug\net5.0\4.International SoftUniada.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\obj\Debug\net5.0\4.International SoftUniada.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\obj\Debug\net5.0\4.International SoftUniada.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\obj\Debug\net5.0\4.International SoftUniada.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\obj\Debug\net5.0\4.International SoftUniada.dll
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\obj\Debug\net5.0\ref\4.International SoftUniada.dll
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\obj\Debug\net5.0\4.International SoftUniada.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Exam Preparation\Final Exams\Retake-Exam-24.03.2019\4.International SoftUniada\obj\Debug\net5.0\4.International SoftUniada.genruntimeconfig.cache

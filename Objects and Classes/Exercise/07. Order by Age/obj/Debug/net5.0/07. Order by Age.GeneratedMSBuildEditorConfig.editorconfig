@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = _07._Order_by_Age
+build_property.ProjectDir = D:\Documents\GitHub\C-Fundamentals\Objects and Classes\Exercise\07. Order by Age\

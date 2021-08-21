@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = _01._Messaging
+build_property.ProjectDir = D:\Documents\GitHub\C-Fundamentals\Lists\More Exercise\01. Messaging\
