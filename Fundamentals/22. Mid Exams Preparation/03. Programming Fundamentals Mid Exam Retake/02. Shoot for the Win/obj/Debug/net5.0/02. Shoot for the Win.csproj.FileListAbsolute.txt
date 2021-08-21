@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.exe
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.dll
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\ref\02. Shoot for the Win.dll
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\bin\Debug\net5.0\02. Shoot for the Win.pdb
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.dll
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\ref\02. Shoot for the Win.dll
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.pdb
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\02. Shoot for the Win\obj\Debug\net5.0\02. Shoot for the Win.genruntimeconfig.cache

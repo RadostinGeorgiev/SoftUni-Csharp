@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.exe
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\ref\02. Ascii Sumator.dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\net5.0\02. Ascii Sumator.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\ref\02. Ascii Sumator.dll
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\net5.0\02. Ascii Sumator.genruntimeconfig.cache

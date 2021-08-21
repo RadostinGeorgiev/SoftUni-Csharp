@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.exe
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\ref\02. Sum Digits.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\ref\02. Sum Digits.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.genruntimeconfig.cache

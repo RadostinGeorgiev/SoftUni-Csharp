@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\01. Data Types.exe
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\01. Data Types.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\01. Data Types.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\01. Data Types.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\01. Data Types.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\ref\01. Data Types.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\bin\Debug\net5.0\01. Data Types.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\ref\01. Data Types.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - More Exercise\01. Data Types\obj\Debug\net5.0\01. Data Types.genruntimeconfig.cache

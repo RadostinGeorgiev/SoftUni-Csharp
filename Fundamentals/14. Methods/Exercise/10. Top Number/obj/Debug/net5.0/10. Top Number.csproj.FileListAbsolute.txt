@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.exe
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\bin\Debug\net5.0\ref\10. Top Number.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\obj\Debug\net5.0\ref\10. Top Number.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.genruntimeconfig.cache

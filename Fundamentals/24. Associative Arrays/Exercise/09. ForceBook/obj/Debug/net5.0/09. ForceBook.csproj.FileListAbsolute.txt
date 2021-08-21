@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\bin\Debug\net5.0\09. ForceBook.exe
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\bin\Debug\net5.0\09. ForceBook.deps.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\bin\Debug\net5.0\09. ForceBook.runtimeconfig.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\bin\Debug\net5.0\09. ForceBook.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\bin\Debug\net5.0\09. ForceBook.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\bin\Debug\net5.0\ref\09. ForceBook.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\bin\Debug\net5.0\09. ForceBook.pdb
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\obj\Debug\net5.0\09. ForceBook.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\obj\Debug\net5.0\09. ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\obj\Debug\net5.0\09. ForceBook.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\obj\Debug\net5.0\09. ForceBook.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\obj\Debug\net5.0\09. ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\obj\Debug\net5.0\09. ForceBook.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\obj\Debug\net5.0\ref\09. ForceBook.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\obj\Debug\net5.0\09. ForceBook.pdb
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\09. ForceBook\obj\Debug\net5.0\09. ForceBook.genruntimeconfig.cache

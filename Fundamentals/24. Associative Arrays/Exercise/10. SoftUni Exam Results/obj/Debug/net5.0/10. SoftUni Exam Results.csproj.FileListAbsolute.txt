@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\net5.0\10. SoftUni Exam Results.exe
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\net5.0\10. SoftUni Exam Results.deps.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\net5.0\10. SoftUni Exam Results.runtimeconfig.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\net5.0\10. SoftUni Exam Results.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\net5.0\10. SoftUni Exam Results.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\net5.0\ref\10. SoftUni Exam Results.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\bin\Debug\net5.0\10. SoftUni Exam Results.pdb
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\net5.0\ref\10. SoftUni Exam Results.dll
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.pdb
+C:\Users\Professional\source\repos\Associative Arrays - Exercise\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.genruntimeconfig.cache

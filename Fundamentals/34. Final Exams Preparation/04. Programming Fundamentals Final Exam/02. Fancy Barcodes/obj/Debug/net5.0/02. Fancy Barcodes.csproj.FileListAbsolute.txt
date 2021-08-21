@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\02. Fancy Barcodes.exe
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\02. Fancy Barcodes.deps.json
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\02. Fancy Barcodes.runtimeconfig.json
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\02. Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\02. Fancy Barcodes.dll
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\ref\02. Fancy Barcodes.dll
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\net5.0\02. Fancy Barcodes.pdb
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.AssemblyInfo.cs
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.dll
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\ref\02. Fancy Barcodes.dll
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.pdb
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\net5.0\02. Fancy Barcodes.genruntimeconfig.cache

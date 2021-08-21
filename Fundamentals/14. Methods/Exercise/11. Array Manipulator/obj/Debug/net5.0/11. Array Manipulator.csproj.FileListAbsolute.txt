@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.exe
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\ref\11. Array Manipulator.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\ref\11. Array Manipulator.dll
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.genruntimeconfig.cache

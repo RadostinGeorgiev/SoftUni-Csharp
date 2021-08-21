@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.exe
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\ref\10. Lower or Upper.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\ref\10. Lower or Upper.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.genruntimeconfig.cache

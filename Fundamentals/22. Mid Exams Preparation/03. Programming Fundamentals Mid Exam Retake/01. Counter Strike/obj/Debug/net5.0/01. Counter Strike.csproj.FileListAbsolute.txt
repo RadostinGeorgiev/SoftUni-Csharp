@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\bin\Debug\net5.0\01. Counter Strike.exe
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\bin\Debug\net5.0\01. Counter Strike.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\bin\Debug\net5.0\01. Counter Strike.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\bin\Debug\net5.0\01. Counter Strike.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\bin\Debug\net5.0\01. Counter Strike.dll
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\bin\Debug\net5.0\ref\01. Counter Strike.dll
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\bin\Debug\net5.0\01. Counter Strike.pdb
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\obj\Debug\net5.0\01. Counter Strike.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\obj\Debug\net5.0\01. Counter Strike.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\obj\Debug\net5.0\01. Counter Strike.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\obj\Debug\net5.0\01. Counter Strike.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\obj\Debug\net5.0\01. Counter Strike.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\obj\Debug\net5.0\01. Counter Strike.dll
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\obj\Debug\net5.0\ref\01. Counter Strike.dll
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\obj\Debug\net5.0\01. Counter Strike.pdb
+D:\SoftUni\Fundamentals\C#\Problems\03. Programming Fundamentals Mid Exam Retake\01. Counter Strike\obj\Debug\net5.0\01. Counter Strike.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\bin\Debug\net5.0\Problem 2.exe
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\bin\Debug\net5.0\Problem 2.deps.json
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\bin\Debug\net5.0\Problem 2.runtimeconfig.json
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\bin\Debug\net5.0\Problem 2.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\bin\Debug\net5.0\Problem 2.dll
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\bin\Debug\net5.0\ref\Problem 2.dll
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\bin\Debug\net5.0\Problem 2.pdb
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\obj\Debug\net5.0\Problem 2.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\obj\Debug\net5.0\Problem 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\obj\Debug\net5.0\Problem 2.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\obj\Debug\net5.0\Problem 2.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\obj\Debug\net5.0\Problem 2.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\obj\Debug\net5.0\Problem 2.dll
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\obj\Debug\net5.0\ref\Problem 2.dll
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\obj\Debug\net5.0\Problem 2.pdb
+C:\Users\Professional\source\repos\Mid Exam -10 July 2021\Problem 2\obj\Debug\net5.0\Problem 2.genruntimeconfig.cache

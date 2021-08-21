@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.exe
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\ref\06. Extract Emails.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\net5.0\06. Extract Emails.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\ref\06. Extract Emails.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\net5.0\06. Extract Emails.genruntimeconfig.cache

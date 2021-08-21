@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net5.0\05. Month Printer.exe
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net5.0\05. Month Printer.deps.json
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net5.0\05. Month Printer.runtimeconfig.json
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net5.0\05. Month Printer.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net5.0\05. Month Printer.dll
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net5.0\ref\05. Month Printer.dll
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\net5.0\05. Month Printer.pdb
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net5.0\05. Month Printer.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net5.0\05. Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net5.0\05. Month Printer.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net5.0\05. Month Printer.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net5.0\05. Month Printer.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net5.0\05. Month Printer.dll
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net5.0\ref\05. Month Printer.dll
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net5.0\05. Month Printer.pdb
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\net5.0\05. Month Printer.genruntimeconfig.cache

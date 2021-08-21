@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.exe
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.dll
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\net5.0\ref\01. Activation Keys.dll
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.pdb
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.dll
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\net5.0\ref\01. Activation Keys.dll
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.pdb
+D:\SoftUni\Fundamentals\C#\Problems\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\bin\Debug\net5.0\08. Magic Sum.exe
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\bin\Debug\net5.0\08. Magic Sum.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\bin\Debug\net5.0\08. Magic Sum.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\bin\Debug\net5.0\08. Magic Sum.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\bin\Debug\net5.0\08. Magic Sum.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\bin\Debug\net5.0\ref\08. Magic Sum.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\bin\Debug\net5.0\08. Magic Sum.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\obj\Debug\net5.0\ref\08. Magic Sum.dll
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Arrays - Exercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.genruntimeconfig.cache

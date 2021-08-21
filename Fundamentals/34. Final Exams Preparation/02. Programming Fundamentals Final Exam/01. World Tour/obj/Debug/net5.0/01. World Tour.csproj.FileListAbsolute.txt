@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.exe
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.deps.json
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.runtimeconfig.json
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.dll
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\ref\01. World Tour.dll
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\net5.0\01. World Tour.pdb
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.AssemblyInfo.cs
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.dll
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\ref\01. World Tour.dll
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.pdb
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\net5.0\01. World Tour.genruntimeconfig.cache

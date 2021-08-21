@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.exe
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.deps.json
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.runtimeconfig.json
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.dll
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\ref\10. Multiplication Table.dll
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\bin\Debug\net5.0\10. Multiplication Table.pdb
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.dll
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\ref\10. Multiplication Table.dll
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.pdb
+D:\SoftUni\Fundamentals\C# - Fundamentals\Problems\Basic Syntax Conditional Statements and Loops - Lab\10. Multiplication Table\obj\Debug\net5.0\10. Multiplication Table.genruntimeconfig.cache

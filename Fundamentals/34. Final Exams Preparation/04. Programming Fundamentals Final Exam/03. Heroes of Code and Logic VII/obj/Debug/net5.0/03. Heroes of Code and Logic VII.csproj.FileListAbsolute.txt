@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.exe
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.deps.json
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.dll
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\ref\03. Heroes of Code and Logic VII.dll
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\bin\Debug\net5.0\03. Heroes of Code and Logic VII.pdb
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.dll
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\ref\03. Heroes of Code and Logic VII.dll
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.pdb
+C:\Users\Professional\source\repos\04. Programming Fundamentals Final Exam\03. Heroes of Code and Logic VII\obj\Debug\net5.0\03. Heroes of Code and Logic VII.genruntimeconfig.cache

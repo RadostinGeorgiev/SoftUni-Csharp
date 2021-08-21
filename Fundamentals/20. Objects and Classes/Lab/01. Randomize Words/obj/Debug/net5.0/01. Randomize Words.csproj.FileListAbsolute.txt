@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.exe
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.dll
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\ref\01. Randomize Words.dll
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.dll
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\ref\01. Randomize Words.dll
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Objects and Classes - Lab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.genruntimeconfig.cache

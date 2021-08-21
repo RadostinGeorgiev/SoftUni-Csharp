@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\bin\Debug\net5.0\3. Post Office.exe
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\bin\Debug\net5.0\3. Post Office.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\bin\Debug\net5.0\3. Post Office.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\bin\Debug\net5.0\3. Post Office.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\bin\Debug\net5.0\3. Post Office.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\bin\Debug\net5.0\ref\3. Post Office.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\bin\Debug\net5.0\3. Post Office.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\obj\Debug\net5.0\3. Post Office.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\obj\Debug\net5.0\3. Post Office.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\obj\Debug\net5.0\3. Post Office.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\obj\Debug\net5.0\3. Post Office.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\obj\Debug\net5.0\3. Post Office.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\obj\Debug\net5.0\3. Post Office.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\obj\Debug\net5.0\ref\3. Post Office.dll
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\obj\Debug\net5.0\3. Post Office.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Regular Expressions - More Exercise\3. Post Office\obj\Debug\net5.0\3. Post Office.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\03. Plant Discovery.exe
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\03. Plant Discovery.deps.json
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\03. Plant Discovery.runtimeconfig.json
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\03. Plant Discovery.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\03. Plant Discovery.dll
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\ref\03. Plant Discovery.dll
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\bin\Debug\net5.0\03. Plant Discovery.pdb
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.AssemblyInfo.cs
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.dll
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\ref\03. Plant Discovery.dll
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.pdb
+C:\Users\Professional\source\repos\02. Programming Fundamentals Final Exam\03. Plant Discovery\obj\Debug\net5.0\03. Plant Discovery.genruntimeconfig.cache

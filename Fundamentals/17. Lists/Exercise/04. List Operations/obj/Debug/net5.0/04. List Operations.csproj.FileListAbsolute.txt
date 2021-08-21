@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.exe
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.dll
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\bin\Debug\net5.0\ref\04. List Operations.dll
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\bin\Debug\net5.0\04. List Operations.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.dll
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\obj\Debug\net5.0\ref\04. List Operations.dll
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Lists - Exercise\04. List Operations\obj\Debug\net5.0\04. List Operations.genruntimeconfig.cache

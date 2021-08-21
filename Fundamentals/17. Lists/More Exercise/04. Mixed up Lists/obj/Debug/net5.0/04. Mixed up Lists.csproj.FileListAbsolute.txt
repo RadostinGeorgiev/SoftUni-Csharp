@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\bin\Debug\net5.0\04. Mixed up Lists.exe
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\bin\Debug\net5.0\04. Mixed up Lists.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\bin\Debug\net5.0\04. Mixed up Lists.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\bin\Debug\net5.0\04. Mixed up Lists.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\bin\Debug\net5.0\04. Mixed up Lists.dll
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\bin\Debug\net5.0\ref\04. Mixed up Lists.dll
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\bin\Debug\net5.0\04. Mixed up Lists.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.csproj.AssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.dll
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\obj\Debug\net5.0\ref\04. Mixed up Lists.dll
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Lists - More Exercise\04. Mixed up Lists\obj\Debug\net5.0\04. Mixed up Lists.genruntimeconfig.cache

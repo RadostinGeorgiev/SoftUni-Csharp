@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.exe
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\ref\06. Balanced Brackets.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\ref\06. Balanced Brackets.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.genruntimeconfig.cache

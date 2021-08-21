@@ -1,0 +1,15 @@
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.exe
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\ref\06. Reversed Chars.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\ref\06. Reversed Chars.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.genruntimeconfig.cache

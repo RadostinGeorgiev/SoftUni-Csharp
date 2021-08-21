@@ -1,0 +1,16 @@
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.exe
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.deps.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.runtimeconfig.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.runtimeconfig.dev.json
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\ref\02. From Left to The Right.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.csprojAssemblyReference.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.AssemblyInfoInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.AssemblyInfo.cs
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.csproj.CoreCompileInputs.cache
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\ref\02. From Left to The Right.dll
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.pdb
+D:\SoftUni\Fundamentals\C#\Problems\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.genruntimeconfig.cache

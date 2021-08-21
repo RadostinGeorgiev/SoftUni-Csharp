@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Associative Arrays - Lab/1.0.0": {
+        "runtime": {
+          "Associative Arrays - Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Associative Arrays - Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

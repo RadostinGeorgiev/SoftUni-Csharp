@@ -1,0 +1,16 @@
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\01. Company Roster.exe
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\01. Company Roster.deps.json
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\01. Company Roster.runtimeconfig.json
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\01. Company Roster.runtimeconfig.dev.json
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\01. Company Roster.dll
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\ref\01. Company Roster.dll
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\net5.0\01. Company Roster.pdb
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.AssemblyInfoInputs.cache
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.AssemblyInfo.cs
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.dll
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\ref\01. Company Roster.dll
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.pdb
+C:\Users\Professional\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\net5.0\01. Company Roster.genruntimeconfig.cache
