@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Advanced",
+    "\\Advanced\\C# Advanced",
+    "\\Advanced\\C# Advanced\\03. Stacks and Queues"
   ],
+  "SelectedNode": "\\Advanced\\C# Advanced\\03. Stacks and Queues",
   "PreviewInSolutionExplorer": false
 }

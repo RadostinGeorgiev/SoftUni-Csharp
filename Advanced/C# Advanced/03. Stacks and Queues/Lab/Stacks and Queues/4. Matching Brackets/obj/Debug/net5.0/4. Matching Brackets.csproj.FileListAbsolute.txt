@@ -1,0 +1,15 @@
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\4. Matching Brackets.exe
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\4. Matching Brackets.deps.json
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\4. Matching Brackets.runtimeconfig.json
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\4. Matching Brackets.runtimeconfig.dev.json
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\4. Matching Brackets.dll
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\ref\4. Matching Brackets.dll
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\bin\Debug\net5.0\4. Matching Brackets.pdb
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.AssemblyInfoInputs.cache
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.AssemblyInfo.cs
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.dll
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\ref\4. Matching Brackets.dll
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.pdb
+D:\Documents\GitHub\C-\Advanced\C# Advanced\03. Stacks and Queues\Lab\Stacks and Queues\4. Matching Brackets\obj\Debug\net5.0\4. Matching Brackets.genruntimeconfig.cache
