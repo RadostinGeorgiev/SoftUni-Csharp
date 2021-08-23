@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\bin\Debug\net5.0\ref\04. Fast Food.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net5.0\ref\04. Fast Food.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.genruntimeconfig.cache
