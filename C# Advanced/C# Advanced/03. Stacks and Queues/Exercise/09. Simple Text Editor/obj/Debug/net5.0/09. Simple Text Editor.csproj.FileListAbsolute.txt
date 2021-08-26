@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\bin\Debug\net5.0\ref\09. Simple Text Editor.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\obj\Debug\net5.0\ref\09. Simple Text Editor.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.genruntimeconfig.cache
