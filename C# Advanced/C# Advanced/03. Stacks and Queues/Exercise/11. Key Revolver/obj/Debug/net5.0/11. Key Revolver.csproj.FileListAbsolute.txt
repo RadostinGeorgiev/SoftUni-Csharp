@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\bin\Debug\net5.0\ref\11. Key Revolver.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\obj\Debug\net5.0\ref\11. Key Revolver.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\03. Stacks and Queues\Exercise\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.genruntimeconfig.cache
