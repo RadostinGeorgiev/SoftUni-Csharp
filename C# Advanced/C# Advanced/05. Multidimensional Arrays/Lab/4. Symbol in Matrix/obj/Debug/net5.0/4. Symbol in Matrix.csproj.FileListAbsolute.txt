@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\bin\Debug\net5.0\ref\4. Symbol in Matrix.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\obj\Debug\net5.0\ref\4. Symbol in Matrix.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.genruntimeconfig.cache

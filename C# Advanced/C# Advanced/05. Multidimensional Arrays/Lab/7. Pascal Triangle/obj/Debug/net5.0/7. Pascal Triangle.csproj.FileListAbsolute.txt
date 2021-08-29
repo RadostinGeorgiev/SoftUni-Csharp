@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\bin\Debug\net5.0\ref\7. Pascal Triangle.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\bin\Debug\net5.0\7. Pascal Triangle.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net5.0\ref\7. Pascal Triangle.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\7. Pascal Triangle\obj\Debug\net5.0\7. Pascal Triangle.genruntimeconfig.cache

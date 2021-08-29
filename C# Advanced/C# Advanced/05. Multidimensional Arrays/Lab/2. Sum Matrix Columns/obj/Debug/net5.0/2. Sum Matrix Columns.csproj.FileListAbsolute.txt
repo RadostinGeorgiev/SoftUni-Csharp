@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\bin\Debug\net5.0\ref\2. Sum Matrix Columns.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\bin\Debug\net5.0\2. Sum Matrix Columns.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net5.0\ref\2. Sum Matrix Columns.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\2. Sum Matrix Columns\obj\Debug\net5.0\2. Sum Matrix Columns.genruntimeconfig.cache

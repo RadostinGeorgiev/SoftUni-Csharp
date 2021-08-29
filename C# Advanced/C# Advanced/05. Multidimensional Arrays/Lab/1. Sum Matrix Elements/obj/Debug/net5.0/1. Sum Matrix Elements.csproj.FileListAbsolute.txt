@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net5.0\ref\1. Sum Matrix Elements.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net5.0\ref\1. Sum Matrix Elements.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.genruntimeconfig.cache
