@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = _07._SoftUni_Party
+build_property.ProjectDir = D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Lab\07. SoftUni Party\
