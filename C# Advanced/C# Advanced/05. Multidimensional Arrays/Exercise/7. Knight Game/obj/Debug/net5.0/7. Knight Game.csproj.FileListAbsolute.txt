@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\bin\Debug\net5.0\ref\7. Knight Game.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\bin\Debug\net5.0\7. Knight Game.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\obj\Debug\net5.0\ref\7. Knight Game.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\7. Knight Game\obj\Debug\net5.0\7. Knight Game.genruntimeconfig.cache

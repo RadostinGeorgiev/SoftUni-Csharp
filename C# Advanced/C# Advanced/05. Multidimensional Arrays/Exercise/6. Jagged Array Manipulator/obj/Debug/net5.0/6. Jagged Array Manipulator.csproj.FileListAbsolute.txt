@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\ref\6. Jagged Array Manipulator.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\ref\6. Jagged Array Manipulator.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.genruntimeconfig.cache

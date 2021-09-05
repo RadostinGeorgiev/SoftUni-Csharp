@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\ref\10. Radioactive Mutant Vampire Bunnies.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\ref\10. Radioactive Mutant Vampire Bunnies.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\05. Multidimensional Arrays\Exercise\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\10. Radioactive Mutant Vampire Bunnies.genruntimeconfig.cache
