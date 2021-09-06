@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\bin\Debug\net5.0\08. Ranking.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\bin\Debug\net5.0\08. Ranking.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\bin\Debug\net5.0\08. Ranking.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\bin\Debug\net5.0\08. Ranking.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\bin\Debug\net5.0\08. Ranking.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\bin\Debug\net5.0\ref\08. Ranking.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\bin\Debug\net5.0\08. Ranking.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\obj\Debug\net5.0\ref\08. Ranking.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\08. Ranking\obj\Debug\net5.0\08. Ranking.genruntimeconfig.cache

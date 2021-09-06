@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\bin\Debug\net5.0\ref\04. Even Times.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\obj\Debug\net5.0\ref\04. Even Times.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.genruntimeconfig.cache

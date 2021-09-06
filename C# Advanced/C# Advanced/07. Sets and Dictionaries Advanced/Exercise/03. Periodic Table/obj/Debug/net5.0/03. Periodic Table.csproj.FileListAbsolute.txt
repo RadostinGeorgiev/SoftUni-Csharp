@@ -1,0 +1,15 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\bin\Debug\net5.0\ref\03. Periodic Table.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net5.0\ref\03. Periodic Table.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\bin\Debug\net5.0\ref\01. Unique Usernames.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net5.0\ref\01. Unique Usernames.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\07. Sets and Dictionaries Advanced\Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.genruntimeconfig.cache
