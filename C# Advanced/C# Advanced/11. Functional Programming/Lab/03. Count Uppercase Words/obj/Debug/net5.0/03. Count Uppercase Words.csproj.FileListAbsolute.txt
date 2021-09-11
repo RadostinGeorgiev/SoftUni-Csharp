@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\bin\Debug\net5.0\ref\03. Count Uppercase Words.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\obj\Debug\net5.0\ref\03. Count Uppercase Words.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.genruntimeconfig.cache
