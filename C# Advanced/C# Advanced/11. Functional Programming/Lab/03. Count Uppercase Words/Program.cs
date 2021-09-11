@@ -7,9 +7,11 @@ namespace _03._Count_Uppercase_Words
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(string.Join(Environment.NewLine, 
-                Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries)
-                    .Where(word=> char.IsUpper(word[0]))));
+                Console.ReadLine()
+                    .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                    .Where(word=> char.IsUpper(word[0]))
+                    .ToList()
+                    .ForEach(Console.WriteLine);
         }
     }
 }

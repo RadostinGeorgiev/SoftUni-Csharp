@@ -9,8 +9,6 @@ namespace _05._Filter_By_Age
         static void Main(string[] args)
         {
             var peoples = new List<(string name, int age)>();
-            Func<(string name, int age), int, bool> younger = (person, age) => person.age < age;
-            Func<(string name, int age), int, bool> older = (person, age) => person.age >= age;
 
             int number = int.Parse(Console.ReadLine());
             int age;
@@ -26,31 +24,35 @@ namespace _05._Filter_By_Age
 
             string condition = Console.ReadLine();
             age = int.Parse(Console.ReadLine());
-            string[] format = Console.ReadLine().Split();
+            Func<(string name, int age), bool> filter = tuple => true;
 
             switch (condition)
             {
                 case "younger":
-                    peoples = peoples
-                        .Where(x => younger(x, age))
-                        .ToList();
+                    filter = (person) => person.age < age;
                     break;
                 case "older":
-                    peoples = peoples
-                        .Where(x => older(x, age))
-                        .ToList();
+                    filter = (person) => person.age >= age;
                     break;
             }
 
-            if (format.Length > 1)
-            {
-                peoples.ForEach(x=>Console.WriteLine($"{x.name} - {x.age}"));
-            }
-            else
-            {
-                peoples.ForEach(x => Console.WriteLine(format[0] == "name" ? $"{x.name}" : $"{x.age}"));
+            string format = Console.ReadLine();
+            Func<(string name, int age), string> output = null;
 
+            switch (format)
+            {
+                case "name":
+                    output = x => $"{x.name}";
+                    break;
+                case "age":
+                    output = x => $"{x.age}";
+                    break;
+                case "name age":
+                    output = x => $"{x.name} - {x.age}";
+                    break;
             }
-        } 
+
+            peoples.Where(filter).Select(output).ToList().ForEach(Console.WriteLine);
+        }
     }
 }
