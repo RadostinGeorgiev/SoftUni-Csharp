@@ -54,7 +54,6 @@ namespace _10._Predicate_Party_
                 case "Length": return s => s.Length == int.Parse(condition);
                 default: return null;
             }
-
         }
     }
 }

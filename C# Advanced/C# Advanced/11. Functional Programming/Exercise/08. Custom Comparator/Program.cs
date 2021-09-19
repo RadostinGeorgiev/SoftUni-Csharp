@@ -30,7 +30,7 @@ namespace _08._Custom_Comparator
 
             Comparison<int> comparison = new Comparison<int>(comparator);
             Array.Sort(numbers, comparison);
-            Console.WriteLine(numbers);
+            Console.WriteLine(string.Join(' ', numbers));
         }
     }
 }
