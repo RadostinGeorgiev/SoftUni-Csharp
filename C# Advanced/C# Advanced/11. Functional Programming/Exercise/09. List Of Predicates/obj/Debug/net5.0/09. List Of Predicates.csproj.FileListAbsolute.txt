@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\bin\Debug\net5.0\09. List Of Predicates.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\bin\Debug\net5.0\09. List Of Predicates.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\bin\Debug\net5.0\09. List Of Predicates.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\bin\Debug\net5.0\09. List Of Predicates.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\bin\Debug\net5.0\09. List Of Predicates.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\bin\Debug\net5.0\ref\09. List Of Predicates.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\bin\Debug\net5.0\09. List Of Predicates.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\obj\Debug\net5.0\ref\09. List Of Predicates.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\09. List Of Predicates\obj\Debug\net5.0\09. List Of Predicates.genruntimeconfig.cache

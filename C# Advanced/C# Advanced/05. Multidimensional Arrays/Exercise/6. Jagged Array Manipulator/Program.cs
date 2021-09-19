@@ -41,7 +41,7 @@ namespace _6._Jagged_Array_Manipulator
                 }
             }
 
-            string input = String.Empty;
+            string input;
             while ((input = Console.ReadLine()) != "End")
             {
                 string[] commands = input.Split();
@@ -64,11 +64,6 @@ namespace _6._Jagged_Array_Manipulator
                 }
             }
 
-            PrintJaggedArray(rows, jaggedArray);
-        }
-
-        private static void PrintJaggedArray(int rows, double[][] jaggedArray)
-        {
             for (int row = 0; row < rows; row++)
             {
                 Console.WriteLine(string.Join(' ', jaggedArray[row]));

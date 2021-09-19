@@ -23,14 +23,12 @@ namespace _2._Squares_in_Matrix
                 {
                     matrix[row, col] = currentRow[col];
 
-                    if ((row > 0) && (col > 0))
+                    if (row > 0 && col > 0
+                    && matrix[row, col] == matrix[row, col - 1]
+                    && matrix[row, col] == matrix[row - 1, col]
+                    && matrix[row, col] == matrix[row - 1, col - 1])
                     {
-                        if ((matrix[row, col] == matrix[row, col - 1])
-                        && (matrix[row, col] == matrix[row - 1, col])
-                        && (matrix[row, col] == matrix[row - 1, col - 1]))
-                        {
-                            equalCellsCounter++;
-                        }
+                        equalCellsCounter++;
                     }
                 }
             }

@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\bin\Debug\net5.0\12. TriFunction.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\bin\Debug\net5.0\12. TriFunction.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\bin\Debug\net5.0\12. TriFunction.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\bin\Debug\net5.0\12. TriFunction.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\bin\Debug\net5.0\12. TriFunction.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\bin\Debug\net5.0\ref\12. TriFunction.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\bin\Debug\net5.0\12. TriFunction.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\obj\Debug\net5.0\12. TriFunction.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\obj\Debug\net5.0\12. TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\obj\Debug\net5.0\12. TriFunction.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\obj\Debug\net5.0\12. TriFunction.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\obj\Debug\net5.0\12. TriFunction.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\obj\Debug\net5.0\12. TriFunction.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\obj\Debug\net5.0\ref\12. TriFunction.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\obj\Debug\net5.0\12. TriFunction.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\12. TriFunction\obj\Debug\net5.0\12. TriFunction.genruntimeconfig.cache

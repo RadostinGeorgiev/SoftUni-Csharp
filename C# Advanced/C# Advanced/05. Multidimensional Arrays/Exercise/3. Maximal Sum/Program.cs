@@ -7,20 +7,14 @@ namespace _3._Maximal_Sum
     {
         static void Main(string[] args)
         {
-            int[] sizeMatrix = Console.ReadLine()
-                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
-                .Select(int.Parse)
-                .ToArray();
+            int[] sizeMatrix = ReadArray();
             int rows = sizeMatrix[0];
             int columns = sizeMatrix[1];
             int[,] matrix = new int[rows, columns];
 
             for (int row = 0; row < rows; row++)
             {
-                int[] currentRow = Console.ReadLine()
-                    .Split(' ', StringSplitOptions.RemoveEmptyEntries)
-                    .Select(int.Parse)
-                    .ToArray();
+                int[] currentRow = ReadArray();
                 for (int col = 0; col < columns; col++)
                 {
                     matrix[row, col] = currentRow[col];
@@ -50,8 +44,17 @@ namespace _3._Maximal_Sum
             Console.WriteLine($"Sum = {maxSum}");
             for (int row = 0; row <= 2; row++)
             {
-                Console.WriteLine($"{matrix[rowIndex + row, colIndex]} {matrix[rowIndex + row, colIndex + 1]} {matrix[rowIndex + row, colIndex + 2]}");
+                Console.WriteLine($"{matrix[rowIndex + row, colIndex]} {matrix[rowIndex + row, colIndex + 1]} " +
+                                  $"{matrix[rowIndex + row, colIndex + 2]}");
             }
+        }
+
+        private static int[] ReadArray()
+        {
+            return Console.ReadLine()
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
         }
     }
 }

@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\bin\Debug\net5.0\10. Predicate Party!.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\bin\Debug\net5.0\10. Predicate Party!.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\bin\Debug\net5.0\10. Predicate Party!.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\bin\Debug\net5.0\10. Predicate Party!.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\bin\Debug\net5.0\10. Predicate Party!.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\bin\Debug\net5.0\ref\10. Predicate Party!.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\bin\Debug\net5.0\10. Predicate Party!.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\obj\Debug\net5.0\ref\10. Predicate Party!.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\10. Predicate Party!\obj\Debug\net5.0\10. Predicate Party!.genruntimeconfig.cache

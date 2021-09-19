@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\bin\Debug\net5.0\ref\05. Applied Arithmetics.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\obj\Debug\net5.0\ref\05. Applied Arithmetics.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.genruntimeconfig.cache

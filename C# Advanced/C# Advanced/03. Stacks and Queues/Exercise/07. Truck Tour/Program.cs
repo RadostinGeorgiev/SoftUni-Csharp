@@ -13,11 +13,11 @@ namespace _07._Truck_Tour
 
             for (int i = 0; i < pumps; i++)
             {
-                int[] pupmpData = Console.ReadLine()
+                int[] pumpData = Console.ReadLine()
                     .Split()
                     .Select(int.Parse)
                     .ToArray();
-                int availableFuel = pupmpData[0] - pupmpData[1];
+                int availableFuel = pumpData[0] - pumpData[1];
                 truckFuel.Enqueue(availableFuel);
             }
 

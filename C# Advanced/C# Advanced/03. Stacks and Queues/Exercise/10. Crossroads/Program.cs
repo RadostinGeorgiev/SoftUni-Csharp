@@ -10,10 +10,9 @@ namespace _10._Crossroads
             int greenLightDuration = int.Parse(Console.ReadLine());
             int freeWindowDuration = int.Parse(Console.ReadLine());
             Queue<string> queue = new Queue<string>();
-
-            string input = string.Empty;
             int carsCounter = 0;
 
+            string input;
             while ((input = Console.ReadLine()) != "END")
             {
                 if (input.Equals("green"))
@@ -35,6 +34,7 @@ namespace _10._Crossroads
                             if (availableTime >= 0)
                             {
                                 carsCounter++;
+                                break;
                             }
                             else
                             {
@@ -54,6 +54,5 @@ namespace _10._Crossroads
             Console.WriteLine("Everyone is safe.");
             Console.WriteLine($"{carsCounter} total cars passed the crossroads.");
         }
-
     }
 }

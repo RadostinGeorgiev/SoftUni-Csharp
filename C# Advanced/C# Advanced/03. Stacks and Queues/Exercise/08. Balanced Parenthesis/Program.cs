@@ -7,7 +7,7 @@ namespace _08._Balanced_Parenthesis
     {
         static void Main(string[] args)
         {
-            Dictionary<char, char> parentheses = new Dictionary<char, char>() 
+            Dictionary<char, char> parentheses = new Dictionary<char, char>()
                 { { '(', ')' }, { '[', ']' }, { '{', '}' } };
             Stack<char> stack = new Stack<char>();
             string sequence = Console.ReadLine();
@@ -19,23 +19,10 @@ namespace _08._Balanced_Parenthesis
                 {
                     stack.Push(c);
                 }
-                else if (stack.Count == 0)
+                else if (stack.Count == 0 || parentheses[stack.Pop()] != c)
                 {
                     isBalanced = false;
                     break;
-                }
-                else if (parentheses.ContainsKey(stack.Peek()))
-                {
-                    if (parentheses[stack.Peek()] == c)
-                    {
-                        stack.Pop();
-                    }
-                    else
-                    {
-                        isBalanced = false;
-                        break;
-                    }
-
                 }
             }
 

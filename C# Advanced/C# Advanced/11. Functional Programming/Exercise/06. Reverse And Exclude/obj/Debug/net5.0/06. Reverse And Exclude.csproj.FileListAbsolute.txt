@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\bin\Debug\net5.0\ref\06. Reverse And Exclude.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\obj\Debug\net5.0\ref\06. Reverse And Exclude.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.genruntimeconfig.cache

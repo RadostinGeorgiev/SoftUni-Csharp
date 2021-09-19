@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\bin\Debug\net5.0\08. Custom Comparator.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\bin\Debug\net5.0\08. Custom Comparator.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\bin\Debug\net5.0\08. Custom Comparator.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\bin\Debug\net5.0\08. Custom Comparator.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\bin\Debug\net5.0\08. Custom Comparator.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\bin\Debug\net5.0\ref\08. Custom Comparator.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\bin\Debug\net5.0\08. Custom Comparator.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\obj\Debug\net5.0\08. Custom Comparator.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\obj\Debug\net5.0\08. Custom Comparator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\obj\Debug\net5.0\08. Custom Comparator.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\obj\Debug\net5.0\08. Custom Comparator.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\obj\Debug\net5.0\08. Custom Comparator.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\obj\Debug\net5.0\08. Custom Comparator.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\obj\Debug\net5.0\ref\08. Custom Comparator.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\obj\Debug\net5.0\08. Custom Comparator.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\11. Functional Programming\Exercise\08. Custom Comparator\obj\Debug\net5.0\08. Custom Comparator.genruntimeconfig.cache

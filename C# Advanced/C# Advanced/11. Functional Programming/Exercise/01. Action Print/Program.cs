@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _01._Action_Print
 {
@@ -6,8 +7,9 @@ namespace _01._Action_Print
     {
         static void Main(string[] args)
         {
-            string name = Console.ReadLine();
-            Action<string> Print = delegate(string text) {  };
+            Action<string> print = s => Console.WriteLine(s);
+
+            Console.ReadLine().Split().ToList().ForEach(print);
         }
     }
 }

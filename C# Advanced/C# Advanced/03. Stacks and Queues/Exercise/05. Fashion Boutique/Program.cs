@@ -28,8 +28,8 @@ namespace _05._Fashion_Boutique
                     racksCounter++;
                     clothesInRack = 0;
                 }
-
             }
+
             Console.WriteLine(racksCounter);
         }
     }

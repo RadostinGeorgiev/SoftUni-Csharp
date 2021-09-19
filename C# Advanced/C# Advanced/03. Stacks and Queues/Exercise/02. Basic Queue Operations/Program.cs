@@ -9,11 +9,9 @@ namespace _02._Basic_Queue_Operations
         static void Main(string[] args)
         {
             int[] info = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            //            int pushNumbers = info[0];
             int popNumbers = info[1];
             int peekNumber = info[2];
             int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
-
             Queue<int> queue = new Queue<int>(numbers);
 
             for (int i = 0; i < popNumbers; i++)
@@ -21,13 +19,13 @@ namespace _02._Basic_Queue_Operations
                 queue.Dequeue();
             }
 
-            if (queue.Contains(peekNumber))
-            {
-                Console.WriteLine("true");
-            }
-            else if (queue.Count == 0)
+            if (queue.Count == 0)
             {
                 Console.WriteLine(0);
+            }
+            else if(queue.Contains(peekNumber))
+            {
+                Console.WriteLine("true");
             }
             else
             {

@@ -29,18 +29,13 @@ namespace _4._Matrix_Shuffling
             while ((input = Console.ReadLine()) != "END")
             {
                 string[] command = input.Split();
-                int row1 = 0;
-                int col1 = 0;
-                int row2 = 0;
-                int col2 = 0;
-
 
                 if (command[0] == "swap" && command.Length == 5)
                 {
-                    row1 = int.Parse(command[1]);
-                    col1 = int.Parse(command[2]);
-                    row2 = int.Parse(command[3]);
-                    col2 = int.Parse(command[4]);
+                    int row1 = int.Parse(command[1]);
+                    int col1 = int.Parse(command[2]);
+                    int row2 = int.Parse(command[3]);
+                    int col2 = int.Parse(command[4]);
 
                     if (row1 < 0 || row1 > matrix.GetLength(0) ||
                         col1 < 0 || col1 > matrix.GetLength(1) ||
