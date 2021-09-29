@@ -1,0 +1,14 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.genruntimeconfig.cache

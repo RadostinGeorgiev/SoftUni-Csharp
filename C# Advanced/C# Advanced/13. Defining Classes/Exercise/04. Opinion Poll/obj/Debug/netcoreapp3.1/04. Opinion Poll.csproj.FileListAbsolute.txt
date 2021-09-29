@@ -1,0 +1,14 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04.OpinionPoll.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04.OpinionPoll.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04.OpinionPoll.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\bin\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04.OpinionPoll.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\04. Opinion Poll\obj\Debug\netcoreapp3.1\04. Opinion Poll.genruntimeconfig.cache

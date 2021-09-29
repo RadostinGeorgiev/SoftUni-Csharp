@@ -1,0 +1,14 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.genruntimeconfig.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.csproj.AssemblyReference.cache

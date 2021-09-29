@@ -1,0 +1,14 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\bin\Debug\netcoreapp3.1\09._Pokemon_Trainer.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\bin\Debug\netcoreapp3.1\09._Pokemon_Trainer.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\bin\Debug\netcoreapp3.1\09._Pokemon_Trainer.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\bin\Debug\netcoreapp3.1\09._Pokemon_Trainer.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\bin\Debug\netcoreapp3.1\09._Pokemon_Trainer.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\bin\Debug\netcoreapp3.1\09._Pokemon_Trainer.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\obj\Debug\netcoreapp3.1\09._Pokemon_Trainer.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\obj\Debug\netcoreapp3.1\09._Pokemon_Trainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\obj\Debug\netcoreapp3.1\09._Pokemon_Trainer.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\obj\Debug\netcoreapp3.1\09._Pokemon_Trainer.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\obj\Debug\netcoreapp3.1\09._Pokemon_Trainer.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\obj\Debug\netcoreapp3.1\09._Pokemon_Trainer.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\obj\Debug\netcoreapp3.1\09._Pokemon_Trainer.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\09._Pokemon_Trainer\obj\Debug\netcoreapp3.1\09._Pokemon_Trainer.genruntimeconfig.cache

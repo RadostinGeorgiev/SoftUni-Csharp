@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\bin\Debug\net5.0\01. Birthday Celebration.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\bin\Debug\net5.0\01. Birthday Celebration.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\bin\Debug\net5.0\01. Birthday Celebration.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\bin\Debug\net5.0\01. Birthday Celebration.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\bin\Debug\net5.0\01. Birthday Celebration.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\bin\Debug\net5.0\ref\01. Birthday Celebration.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\bin\Debug\net5.0\01. Birthday Celebration.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\obj\Debug\net5.0\ref\01. Birthday Celebration.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\Exams\Retake Exam - 18 August 2021\01. Birthday Celebration\obj\Debug\net5.0\01. Birthday Celebration.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\bin\Debug\netcoreapp3.1\08._Car_Salesman.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\bin\Debug\netcoreapp3.1\08._Car_Salesman.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\bin\Debug\netcoreapp3.1\08._Car_Salesman.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\bin\Debug\netcoreapp3.1\08._Car_Salesman.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\bin\Debug\netcoreapp3.1\08._Car_Salesman.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\bin\Debug\netcoreapp3.1\08._Car_Salesman.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\obj\Debug\netcoreapp3.1\08._Car_Salesman.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\obj\Debug\netcoreapp3.1\08._Car_Salesman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\obj\Debug\netcoreapp3.1\08._Car_Salesman.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\obj\Debug\netcoreapp3.1\08._Car_Salesman.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\obj\Debug\netcoreapp3.1\08._Car_Salesman.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\obj\Debug\netcoreapp3.1\08._Car_Salesman.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\obj\Debug\netcoreapp3.1\08._Car_Salesman.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\08._Car_Salesman\obj\Debug\netcoreapp3.1\08._Car_Salesman.genruntimeconfig.cache

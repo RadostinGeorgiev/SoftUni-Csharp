@@ -1,0 +1,14 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02.CreatingConstructors.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02.CreatingConstructors.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02.CreatingConstructors.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02.CreatingConstructors.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02.CreatingConstructors.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02.CreatingConstructors.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02.CreatingConstructors.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02.CreatingConstructors.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\13. Defining Classes\Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02.Creating Constructors.genruntimeconfig.cache
