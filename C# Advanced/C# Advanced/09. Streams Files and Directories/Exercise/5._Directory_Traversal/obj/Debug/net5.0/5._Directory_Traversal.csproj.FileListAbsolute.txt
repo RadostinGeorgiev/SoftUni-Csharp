@@ -1,0 +1,15 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\bin\Debug\net5.0\5._Directory_Traversal.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\bin\Debug\net5.0\5._Directory_Traversal.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\bin\Debug\net5.0\5._Directory_Traversal.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\bin\Debug\net5.0\5._Directory_Traversal.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\bin\Debug\net5.0\5._Directory_Traversal.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\bin\Debug\net5.0\ref\5._Directory_Traversal.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\bin\Debug\net5.0\5._Directory_Traversal.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\obj\Debug\net5.0\5._Directory_Traversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\obj\Debug\net5.0\5._Directory_Traversal.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\obj\Debug\net5.0\5._Directory_Traversal.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\obj\Debug\net5.0\5._Directory_Traversal.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\obj\Debug\net5.0\5._Directory_Traversal.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\obj\Debug\net5.0\ref\5._Directory_Traversal.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\obj\Debug\net5.0\5._Directory_Traversal.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\5._Directory_Traversal\obj\Debug\net5.0\5._Directory_Traversal.genruntimeconfig.cache

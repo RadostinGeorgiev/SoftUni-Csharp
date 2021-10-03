@@ -1,0 +1,17 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\bin\Debug\net5.0\6._Zip_and_Extract.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\bin\Debug\net5.0\data\copyMe.png
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\bin\Debug\net5.0\6._Zip_and_Extract.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\bin\Debug\net5.0\6._Zip_and_Extract.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\bin\Debug\net5.0\6._Zip_and_Extract.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\bin\Debug\net5.0\6._Zip_and_Extract.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\bin\Debug\net5.0\ref\6._Zip_and_Extract.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\bin\Debug\net5.0\6._Zip_and_Extract.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\obj\Debug\net5.0\6._Zip_and_Extract.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\obj\Debug\net5.0\6._Zip_and_Extract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\obj\Debug\net5.0\6._Zip_and_Extract.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\obj\Debug\net5.0\6._Zip_and_Extract.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\obj\Debug\net5.0\6._Zip_and_Extract.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\obj\Debug\net5.0\6._Zip_and_Extract.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\obj\Debug\net5.0\ref\6._Zip_and_Extract.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\obj\Debug\net5.0\6._Zip_and_Extract.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\6._Zip_and_Extract\obj\Debug\net5.0\6._Zip_and_Extract.genruntimeconfig.cache

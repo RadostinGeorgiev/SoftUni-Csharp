@@ -1,0 +1,16 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\bin\Debug\net5.0\1._Even_Lines.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\bin\Debug\net5.0\data\text.txt
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\bin\Debug\net5.0\1._Even_Lines.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\bin\Debug\net5.0\1._Even_Lines.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\bin\Debug\net5.0\1._Even_Lines.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\bin\Debug\net5.0\1._Even_Lines.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\bin\Debug\net5.0\ref\1._Even_Lines.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\bin\Debug\net5.0\1._Even_Lines.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\obj\Debug\net5.0\1._Even_Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\obj\Debug\net5.0\1._Even_Lines.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\obj\Debug\net5.0\1._Even_Lines.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\obj\Debug\net5.0\1._Even_Lines.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\obj\Debug\net5.0\1._Even_Lines.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\obj\Debug\net5.0\ref\1._Even_Lines.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\obj\Debug\net5.0\1._Even_Lines.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\09. Streams Files and Directories\Exercise\1._Even_Lines\obj\Debug\net5.0\1._Even_Lines.genruntimeconfig.cache
