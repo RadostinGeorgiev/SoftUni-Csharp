@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Birthday Celebration", "01. Birthday Celebration\01. Birthday Celebration.csproj", "{EDBB30FB-B4CC-4BA9-89E8-5A564506B221}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Birthday Celebration", "01. Birthday Celebration\01. Birthday Celebration.csproj", "{EDBB30FB-B4CC-4BA9-89E8-5A564506B221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. The Battle of The Five Armies", "02. The Battle of The Five Armies\02. The Battle of The Five Armies.csproj", "{3302476E-6B83-4F51-90FF-9DB053C2E3BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. The Battle of The Five Armies", "02. The Battle of The Five Armies\02. The Battle of The Five Armies.csproj", "{3302476E-6B83-4F51-90FF-9DB053C2E3BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreetRacing", "03. Street Racing\StreetRacing.csproj", "{8C418C82-FD65-4FA0-9467-6EA5036ACB77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3302476E-6B83-4F51-90FF-9DB053C2E3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3302476E-6B83-4F51-90FF-9DB053C2E3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3302476E-6B83-4F51-90FF-9DB053C2E3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C418C82-FD65-4FA0-9467-6EA5036ACB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C418C82-FD65-4FA0-9467-6EA5036ACB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C418C82-FD65-4FA0-9467-6EA5036ACB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C418C82-FD65-4FA0-9467-6EA5036ACB77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
