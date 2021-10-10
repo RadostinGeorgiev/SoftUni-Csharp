@@ -1,0 +1,14 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.genruntimeconfig.cache

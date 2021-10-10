@@ -1,0 +1,14 @@
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\bin\Debug\netcoreapp3.1\03. Generic Swap Method String.exe
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\bin\Debug\netcoreapp3.1\03. Generic Swap Method String.deps.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\bin\Debug\netcoreapp3.1\03. Generic Swap Method String.runtimeconfig.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\bin\Debug\netcoreapp3.1\03. Generic Swap Method String.runtimeconfig.dev.json
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\bin\Debug\netcoreapp3.1\03. Generic Swap Method String.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\bin\Debug\netcoreapp3.1\03. Generic Swap Method String.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.AssemblyInfo.cs
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.dll
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.pdb
+D:\Documents\GitHub\Csharp-SoftUni\C# Advanced\C# Advanced\17. Generics\Exercise\03. Generic Swap Method String\obj\Debug\netcoreapp3.1\03. Generic Swap Method String.genruntimeconfig.cache
