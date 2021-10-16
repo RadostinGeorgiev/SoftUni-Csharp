@@ -46,10 +46,11 @@ namespace StreetRacing
 
         public Car GetMostPowerfulCar()
         {
-            return Participants.Count > 0 ? 
-                Participants.First(x => x.Value.HorsePower == 
-                                        Participants.Max(x => x.Value.HorsePower)).Value 
+            return Participants.Count > 0 ?
+                Participants.OrderByDescending(x => x.Value.HorsePower).FirstOrDefault().Value 
                 : null;
+                //Participants.First(x => x.Value.HorsePower == 
+                //                        Participants.Max(x => x.Value.HorsePower)).Value
         }
 
         public string Report()
