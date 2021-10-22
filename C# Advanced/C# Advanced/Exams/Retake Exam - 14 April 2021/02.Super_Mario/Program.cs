@@ -15,10 +15,8 @@ namespace _02.Super_Mario
 
             CreateMatrix(maze, ref rowMario, ref colMario);
 
-            bool isWin = false;
             while (lives > 0)
             {
-
                 var command = Console.ReadLine()
                     .Split(' ', StringSplitOptions.RemoveEmptyEntries)
                     .ToArray();
@@ -26,37 +24,17 @@ namespace _02.Super_Mario
                 int colE = int.Parse(command[2]);
                 SpawnEnemy(maze, rowE, colE);
 
-                isWin = MarioMove(maze, command[0], ref rowMario, ref colMario, ref lives);
-                if (isWin) { break; }
+                if (MarioMove(maze, command[0], ref rowMario, ref colMario, ref lives))
+                {
+                    break;
+                }
             }
 
-            Console.WriteLine(isWin
+            Console.WriteLine(lives > 0
                 ? $"Mario has successfully saved the princess! Lives left: {lives}"
                 : $"Mario died at {rowMario};{colMario}.");
 
             PrintMatrix(maze);
-        }
-
-        private static void SpawnEnemy(char[][] maze, int row, int col)
-        {
-            maze[row][col] = 'B';
-        }
-
-        private static void CreateMatrix(char[][] maze, ref int rowMario, ref int colMario)
-        {
-            for (var row = 0; row < maze.Length; row++)
-            {
-                maze[row] = Console.ReadLine().ToCharArray();
-
-                for (var col = 0; col < maze[row].Length; col++)
-                {
-                    if (maze[row][col] == 'M')
-                    {
-                        rowMario = row;
-                        colMario = col;
-                    }
-                }
-            }
         }
 
         private static void PrintMatrix(char[][] maze)
@@ -67,47 +45,60 @@ namespace _02.Super_Mario
             }
         }
 
-        private static bool MarioMove(char[][] maze, string command, ref int rowMario, ref int colMario, ref int lives)
+        private static bool MarioMove(char[][] matrix, string command, ref int row, ref int col, ref int lives)
         {
-            maze[rowMario][colMario] = '-';
+            matrix[row][col] = '-';
             lives--;
 
             switch (command)
             {
-                case "W":
-                    if (rowMario > 0) { rowMario--; }
-                    break;
-
-                case "S":
-                    if (rowMario < maze.Length - 1) { rowMario++; }
-                    break;
-                case "A":
-                    if (colMario > 0) { colMario--; }
-                    break;
-                case "D":
-                    if (colMario < maze[rowMario].Length - 1) { colMario++; }
-                    break;
+                case "W": if (row > 0) { row--; } break;
+                case "S": if (row < matrix.Length - 1) { row++; } break;
+                case "A": if (col > 0) { col--; } break;
+                case "D": if (col < matrix[row].Length - 1) { col++; } break;
             }
 
-            if (maze[rowMario][colMario] == 'P')
+            if (matrix[row][col] == 'P')
             {
-                maze[rowMario][colMario] = '-';
+                matrix[row][col] = '-';
                 return true;
             }
 
-            if (maze[rowMario][colMario] == 'B')
+            if (matrix[row][col] == 'B')
             {
                 lives -= 2;
             }
 
             if (lives <= 0)
             {
-                maze[rowMario][colMario] = 'X';
+                matrix[row][col] = 'X';
                 return false;
             }
 
-            maze[rowMario][colMario] = 'M';
+            matrix[row][col] = 'M';
             return false;
+        }
+
+        private static void SpawnEnemy(char[][] matrix, int row, int col)
+        {
+            matrix[row][col] = 'B';
+        }
+
+        private static void CreateMatrix(char[][] matrix, ref int rowMario, ref int colMario)
+        {
+            for (var row = 0; row < matrix.Length; row++)
+            {
+                matrix[row] = Console.ReadLine().ToCharArray();
+
+                for (var col = 0; col < matrix[row].Length; col++)
+                {
+                    if (matrix[row][col] == 'M')
+                    {
+                        rowMario = row;
+                        colMario = col;
+                    }
+                }
+            }
         }
     }
 }

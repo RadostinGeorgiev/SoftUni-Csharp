@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Lootbox", "01.Lootbox\01.Lootbox.csproj", "{99575CC5-FB76-42F9-A4BE-CAE33964932B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Re_Volt", "02.Re_Volt\02.Re_Volt.csproj", "{743847CE-5FDA-430D-8061-7F6FCE82A4B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guild", "Guild\Guild.csproj", "{DD68CC04-5BEA-4C87-8868-39737A274885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99575CC5-FB76-42F9-A4BE-CAE33964932B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99575CC5-FB76-42F9-A4BE-CAE33964932B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99575CC5-FB76-42F9-A4BE-CAE33964932B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99575CC5-FB76-42F9-A4BE-CAE33964932B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743847CE-5FDA-430D-8061-7F6FCE82A4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743847CE-5FDA-430D-8061-7F6FCE82A4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743847CE-5FDA-430D-8061-7F6FCE82A4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743847CE-5FDA-430D-8061-7F6FCE82A4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD68CC04-5BEA-4C87-8868-39737A274885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD68CC04-5BEA-4C87-8868-39737A274885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD68CC04-5BEA-4C87-8868-39737A274885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD68CC04-5BEA-4C87-8868-39737A274885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7192756-C751-4D2E-A74E-448A2772E516}
+	EndGlobalSection
+EndGlobal
