@@ -24,7 +24,7 @@ namespace _02.Pawn_Wars
                 }
                 if (result == -1)
                 {
-                    Console.WriteLine($"Game over! White capture on {(char)('a' + whitePawn[1])}{8 - whitePawn[0]}.");
+                    Console.WriteLine($"Game over! White capture on {(char)('a' + blackPawn[1])}{8 - blackPawn[0]}.");
                     break;
                 };
 
@@ -36,36 +36,27 @@ namespace _02.Pawn_Wars
                 }
                 if (result == -1)
                 {
-                    Console.WriteLine($"Game over! Black capture on {(char)('a' + blackPawn[1])}{8 - blackPawn[0]}.");
+                    Console.WriteLine($"Game over! Black capture on {(char)('a' + whitePawn[1])}{8 - whitePawn[0]}.");
                     break;
                 };
             }
         }
 
-        private static bool AttackPawn(ref int[] player, int[] target, int[] attacked)
+        private static bool AttackPawn(int[] attacker, int[] target)
         {
-            if (attacked[0] == target[0] && attacked[1] == target[1])
-            {
-                player[0] = attacked[0];
-                player[1] = attacked[1];
-                return true;
-            }
-
-            return false;
+            return attacker[0] == target[0] && attacker[1] == target[1];
         }
 
         private static int MoveBlackPawn(char[,] chessBoard, ref int[] white, ref int[] black)
         {
-            int[] attack = new int[2];
-            attack[0] = black[0] + 1;
-            attack[1] = black[1] - 1;
-            if (CheckCoordinate(chessBoard, attack[0], attack[1]) &&
-               (AttackPawn(ref black, white, attack)))
+            int[] target = new int[2];
+            target[0] = black[0] + 1;
+            target[1] = black[1] - 1;
+            if (AttackPawn(white, target))
                 return -1;
 
-            attack[1] = black[1] + 1;
-            if (CheckCoordinate(chessBoard, attack[0], attack[1]) &&
-               (AttackPawn(ref black, white, attack)))
+            target[1] = black[1] + 1;
+            if (AttackPawn(white, target))
                 return -1;
 
             chessBoard[black[0], black[1]] = '-';
@@ -82,16 +73,14 @@ namespace _02.Pawn_Wars
 
         private static int MoveWhitePawn(char[,] chessBoard, ref int[] white, ref int[] black)
         {
-            int[] attack = new int[2];
-            attack[0] = white[0] - 1;
-            attack[1] = white[1] - 1;
-            if (CheckCoordinate(chessBoard, attack[0], attack[1]) &&
-                (AttackPawn(ref white, black, attack)))
+            int[] target = new int[2];
+            target[0] = white[0] - 1;
+            target[1] = white[1] - 1;
+            if (AttackPawn(black, target))
                 return -1;
 
-            attack[1] = white[1] + 1;
-            if (CheckCoordinate(chessBoard, attack[0], attack[1]) &&
-                (AttackPawn(ref white, black, attack)))
+            target[1] = white[1] + 1;
+            if ((AttackPawn(black, target)))
                 return -1;
 
             chessBoard[white[0], white[1]] = '-';
@@ -104,11 +93,6 @@ namespace _02.Pawn_Wars
             }
 
             return 0;
-        }
-
-        private static bool CheckCoordinate(char[,] matrix, int row, int col)
-        {
-            return row >= 0 && row < matrix.GetLength(0) && col >= 0 && col < matrix.GetLength(1);
         }
 
         private static void FillMatrix(int rows, int cols, char[,] matrix, ref int[] white, ref int[] black)
