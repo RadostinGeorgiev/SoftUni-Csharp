@@ -10,10 +10,10 @@ namespace _01._Food_Finder
         {
             Dictionary<string, List<char>> words  = new Dictionary<string, List<char>>
             {
-                { "pear", new List<char>{'p', 'e', 'a', 'r'}},
-                { "flour",new List<char>{'f','l','o', 'u', 'r'}},
-                { "pork", new List<char> {'p', 'o', 'r', 'k'}},
-                { "olive", new List<char>{'o', 'l', 'i', 'v', 'e'}}
+                { "pear", "pear".ToCharArray().ToList()},
+                { "flour","flour".ToCharArray().ToList()},
+                { "pork", "pork".ToCharArray().ToList()},
+                { "olive", "olive".ToCharArray().ToList()}
             };
 
             Queue<char> vowels = new Queue<char>(Console.ReadLine().Split().Select(char.Parse).ToArray());
