@@ -6,4 +6,11 @@
     <RootNamespace>_01.The_Garden</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Update="Program.cs">
+      <ExcludeFromSourceAnalysis>True</ExcludeFromSourceAnalysis>
+      <ExcludeFromStyleCop>True</ExcludeFromStyleCop>
+    </Compile>
+  </ItemGroup>
+
 </Project>

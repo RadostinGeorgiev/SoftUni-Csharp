@@ -4,16 +4,16 @@ using System.Linq;
 
 namespace _02.Make_a_Salad
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Dictionary<string, int> calories = new Dictionary<string, int>()
             {
-                { "tomato", 80},
-                { "carrot", 136},
-                { "lettuce", 109},
-                { "potato", 215}
+                { "tomato", 80 },
+                { "carrot", 136 },
+                { "lettuce", 109 },
+                { "potato", 215 }
             };
 
             Queue<string> vegetables = new Queue<string>(Console.ReadLine().Split());
@@ -30,14 +30,16 @@ namespace _02.Make_a_Salad
                     {
                         break;
                     }
+
                     currentSalad -= calories[vegetables.Dequeue()];
                 }
+
                 readySalads.Add(salads.Pop());
             }
 
             Console.WriteLine(string.Join(' ', readySalads));
-            Console.WriteLine(vegetables.Count == 0 
-                ? string.Join(' ', salads) 
+            Console.WriteLine(vegetables.Count == 0
+                ? string.Join(' ', salads)
                 : string.Join(' ', vegetables));
         }
     }

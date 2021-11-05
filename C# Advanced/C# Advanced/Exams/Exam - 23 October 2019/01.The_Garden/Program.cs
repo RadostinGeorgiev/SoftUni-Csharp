@@ -43,7 +43,7 @@ namespace _01.The_Garden
             Console.WriteLine($"Potatos: {countOfPotatos}");
             Console.WriteLine($"Lettuce: {countOfCucmbers}");
             Console.WriteLine($"Harmed vegetables: {harmedVegetables}");
-         }
+        }
 
         private static void PrintMatrix(char[][] garden)
         {
@@ -58,25 +58,25 @@ namespace _01.The_Garden
             switch (direction)
             {
                 case "up":
-                    for (int i = row; i >= 0; i-=2)
+                    for (int i = row; i >= 0; i -= 2)
                     {
                         HarmVegetable(garden, i, col, ref harmedVegetables);
                     }
                     break;
                 case "down":
-                    for (int i = 0; i < garden.Length; i+=2)
+                    for (int i = 0; i < garden.Length; i += 2)
                     {
                         HarmVegetable(garden, i, col, ref harmedVegetables);
                     }
                     break;
                 case "left":
-                    for (int i = col; i >= 0; i-=2)
+                    for (int i = col; i >= 0; i -= 2)
                     {
-                       HarmVegetable(garden, row, i, ref harmedVegetables);
+                        HarmVegetable(garden, row, i, ref harmedVegetables);
                     }
                     break;
                 case "right":
-                    for (int i = 0; i < garden[row].Length; i+=2)
+                    for (int i = 0; i < garden[row].Length; i += 2)
                     {
                         HarmVegetable(garden, row, i, ref harmedVegetables);
                     }
@@ -90,6 +90,7 @@ namespace _01.The_Garden
             {
                 harmedVegetables++;
             }
+
             garden[row][col] = ' ';
         }
 
