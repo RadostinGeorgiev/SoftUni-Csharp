@@ -23,13 +23,12 @@ namespace WildFarm
                        .Split(' ', StringSplitOptions.RemoveEmptyEntries);
                     IAnimal animal = animalCreator.AnimalFactory(animalArgs);
                     Console.WriteLine(animal.ProduceSound());
+                    animals.Add(animal);
 
                     string[] foodArgs = Console.ReadLine()
                         .Split(' ', StringSplitOptions.RemoveEmptyEntries);
                     IFood food = foodCreator.FoodFactory(foodArgs);
-
                     animal.Feed(food);
-                    animals.Add(animal);
                 }
                 catch (Exception ex)
                 {

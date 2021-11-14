@@ -14,49 +14,37 @@ namespace WildFarm.Factory
             string name = animalArgs[1];
             double weight = double.Parse(animalArgs[2]);
 
-            double wingSize;
-            string livingRegion;
-            string breed;
-
-            switch (type)
+            double wingSize = type switch
             {
-                case "Owl":
-                    wingSize = double.Parse(animalArgs[3]);
-                    animal = new Owl(name, weight, wingSize);
-                    break;
+                "Owl" => double.Parse(animalArgs[3]),
+                "Hen" => double.Parse(animalArgs[3]),
+                _ => 0
+            };
+            string livingRegion = type switch
+            {
+                "Dog" => animalArgs[3],
+                "Mouse" => animalArgs[3],
+                "Cat" => animalArgs[3],
+                "Tiger" => animalArgs[3],
+                _ => null
+            };
+            string breed = type switch
+            {
+                "Cat" => animalArgs[4],
+                "Tiger" => animalArgs[4],
+                _ => null
+            };
 
-                case "Hen":
-                    wingSize = double.Parse(animalArgs[3]);
-                    animal = new Hen(name, weight, wingSize);
-                    break;
-
-                case "Dog":
-                    livingRegion = animalArgs[3];
-                    animal = new Dog(name, weight, livingRegion);
-                    break;
-
-                case "Mouse":
-                    livingRegion = animalArgs[3];
-                    animal = new Mouse(name, weight, livingRegion);
-                    break;
-
-                case "Cat":
-                    livingRegion = animalArgs[3];
-                    breed = animalArgs[4];
-                    animal = new Cat(name, weight, livingRegion, breed);
-                    break;
-
-                case "Tiger":
-                    livingRegion = animalArgs[3];
-                    breed = animalArgs[4];
-                    animal = new Tiger(name, weight, livingRegion, breed);
-                    break;
-
-                default:
-                    throw new ArgumentException(MissingAnimalMessage); 
-            }
-
-            return animal;
+            return animal = type switch
+            {
+                "Owl" => new Owl(name, weight, wingSize),
+                "Hen" => new Hen(name, weight, wingSize),
+                "Dog" => new Dog(name, weight, livingRegion),
+                "Mouse" => new Mouse(name, weight, livingRegion),
+                "Cat" => new Cat(name, weight, livingRegion, breed),
+                "Tiger" => new Tiger(name, weight, livingRegion, breed),
+                _ => throw new ArgumentException(MissingAnimalMessage)
+            };
         }
     }
 }

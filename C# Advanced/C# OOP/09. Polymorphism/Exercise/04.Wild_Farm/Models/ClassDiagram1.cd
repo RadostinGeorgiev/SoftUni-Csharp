@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="WildFarm.Models.Animals.Animal" Collapsed="true">
+  <Class Name="WildFarm.Models.Animals.Animal">
     <Position X="6" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AEAAAgAAAAAQAAAIAAAAAAQAQCAAAAAAAAAAAAAAQAA=</HashCode>
@@ -8,64 +8,64 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="WildFarm.Models.Animals.Bird" Collapsed="true">
-    <Position X="1.5" Y="1.75" Width="1.5" />
+  <Class Name="WildFarm.Models.Animals.Bird">
+    <Position X="1.5" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Animals\Bird.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WildFarm.Models.Animals.Cat" Collapsed="true">
-    <Position X="11.75" Y="4.75" Width="1.5" />
+  <Class Name="WildFarm.Models.Animals.Cat">
+    <Position X="11.75" Y="8.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AFAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Animals\Cat.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WildFarm.Models.Animals.Dog" Collapsed="true">
-    <Position X="5" Y="3.25" Width="1.5" />
+  <Class Name="WildFarm.Models.Animals.Dog">
+    <Position X="5" Y="5.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AFAAAAAAAAAQAAAEAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AFAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Animals\Dog.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WildFarm.Models.Animals.Feline" Collapsed="true">
-    <Position X="10.5" Y="3.25" Width="1.5" />
+  <Class Name="WildFarm.Models.Animals.Feline">
+    <Position X="10.5" Y="5.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
       <FileName>Models\Animals\Feline.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WildFarm.Models.Animals.Hen" Collapsed="true">
-    <Position X="2.75" Y="3.25" Width="1.5" />
+  <Class Name="WildFarm.Models.Animals.Hen">
+    <Position X="2.75" Y="5.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AFAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Animals\Hen.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WildFarm.Models.Animals.Mammal" Collapsed="true">
-    <Position X="8.25" Y="1.75" Width="1.5" />
+  <Class Name="WildFarm.Models.Animals.Mammal">
+    <Position X="8.25" Y="3" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
       <FileName>Models\Animals\Mammal.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WildFarm.Models.Animals.Mouse" Collapsed="true">
-    <Position X="7.25" Y="3.25" Width="1.5" />
+  <Class Name="WildFarm.Models.Animals.Mouse">
+    <Position X="7.25" Y="5.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AFAAAAAAAAAQAAAEAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AFAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Animals\Mouse.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WildFarm.Models.Animals.Owl" Collapsed="true">
-    <Position X="0.5" Y="3.25" Width="1.5" />
+  <Class Name="WildFarm.Models.Animals.Owl">
+    <Position X="0.5" Y="5.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AFAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Animals\Owl.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="WildFarm.Models.Animals.Tiger" Collapsed="true">
-    <Position X="9.5" Y="4.75" Width="1.5" />
+  <Class Name="WildFarm.Models.Animals.Tiger">
+    <Position X="9" Y="8.25" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AFAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Animals\Tiger.cs</FileName>
@@ -74,7 +74,7 @@
   <Interface Name="WildFarm.Models.Animals.Interfaces.IAnimal">
     <Position X="14.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAgAAAAAQAAAIAAAAAAQAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AEAAAgAAAAAQAAAIAAAAAAQAQCAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Animals\Interfaces\IAnimal.cs</FileName>
     </TypeIdentifier>
   </Interface>
