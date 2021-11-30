@@ -41,6 +41,6 @@
             }
         }
 
-        public bool IsDone() => EnergyRequired == 0;
+        public bool IsDone() => EnergyRequired <= 0;
     }
 }

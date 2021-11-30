@@ -12,6 +12,7 @@
     using Models.Eggs;
     using Models.Eggs.Contracts;
     using Models.Workshops;
+    using Models.Workshops.Contracts;
     using Repositories;
     using static Utilities.Messages.ExceptionMessages;
     using static Utilities.Messages.OutputMessages;
@@ -19,13 +20,13 @@
 
     public class Controller : IController
     {
-        private BunnyRepository _bunnies;
-        private EggRepository _eggs;
+        private BunnyRepository bunnies;
+        private EggRepository eggs;
 
         public Controller()
         {
-            this._bunnies = new BunnyRepository();
-            this._eggs = new EggRepository();
+            this.bunnies = new BunnyRepository();
+            this.eggs = new EggRepository();
         }
 
         public string AddBunny(string bunnyType, string bunnyName)
@@ -37,7 +38,7 @@
                 _ => throw new InvalidOperationException(InvalidBunnyType)
             };
 
-            this._bunnies.Add(bunny);
+            this.bunnies.Add(bunny);
 
             return string.Format(BunnyAdded, bunnyType, bunnyName);
         }
@@ -45,7 +46,7 @@
         public string AddDyeToBunny(string bunnyName, int power)
         {
             IDye dye = new Dye(power);
-            IBunny bunny = this._bunnies.FindByName(bunnyName);
+            IBunny bunny = this.bunnies.FindByName(bunnyName);
 
             if (bunny == null)
             {
@@ -61,17 +62,17 @@
         {
             IEgg egg = new Egg(eggName, energyRequired);
 
-            this._eggs.Add(egg);
+            this.eggs.Add(egg);
 
             return string.Format(EggAdded, eggName);
         }
 
         public string ColorEgg(string eggName)
         {
-            IEgg egg = this._eggs.FindByName(eggName);
-            var workshop = new Workshop();
+            IEgg egg = this.eggs.FindByName(eggName);
+            IWorkshop workshop = new Workshop();
 
-            List<IBunny> suitableBunnies = this._bunnies.Models
+            List<IBunny> suitableBunnies = this.bunnies.Models
                 .Where(b => b.Energy >= 50)
                 .OrderByDescending(b => b.Energy)
                 .ToList();
@@ -91,10 +92,10 @@
                     suitableBunnies.Remove(bunny);
                 }
 
-                if (bunny.Energy == 0)
+                if (bunny.Energy <= 0)
                 {
                     suitableBunnies.Remove(bunny);
-                    this._bunnies.Remove(bunny);
+                    this.bunnies.Remove(bunny);
                 }
             }
 
@@ -105,10 +106,10 @@
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"{this._eggs.Models.Count(e => e.IsDone())} eggs are done!");
+            sb.AppendLine($"{this.eggs.Models.Count(e => e.IsDone())} eggs are done!");
             sb.AppendLine("Bunnies info:");
 
-            foreach (var bunny in this._bunnies.Models)
+            foreach (var bunny in this.bunnies.Models)
             {
                 sb.AppendLine($"Name: {bunny.Name}")
                   .AppendLine($"Energy: {bunny.Energy}")
