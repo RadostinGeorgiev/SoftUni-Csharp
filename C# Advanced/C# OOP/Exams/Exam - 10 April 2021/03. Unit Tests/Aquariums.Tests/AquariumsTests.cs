@@ -149,5 +149,69 @@
             Assert.AreEqual(expectedCount, actualCount);
         }
 
+        [Test]
+        [TestCase("Betty")]
+        public void Aquarium_TestSellFish_ShouldThrowExceptionAtMissingFish(string fishName)
+        {
+            //Arrange
+            Aquarium aquarium = new Aquarium("Aquarium", 10);
+            Fish fishR = new Fish("Red");
+            Fish fishB = new Fish("Black");
+
+            aquarium.Add(fishR);
+            aquarium.Add(fishB);
+
+            //Act
+
+            //Assert
+            Assert.Throws<InvalidOperationException>(() => aquarium.SellFish(fishName), $"Fish with the name {fishName} doesn't exist!");
+            Assert.That(() => aquarium.SellFish(fishName),
+                Throws.InvalidOperationException
+                    .With.Message.EqualTo($"Fish with the name {fishName} doesn't exist!"));
+        }
+
+        [Test]
+        [TestCase("Red")]
+        public void Aquarium_TestSellFish_ShouldDecreaseAvailableFishCount(string fishName)
+        {
+            //Arrange
+            Aquarium aquarium = new Aquarium("Aquarium", 10);
+            Fish fishR = new Fish("Red");
+            Fish fishB = new Fish("Black");
+
+            aquarium.Add(fishR);
+            aquarium.Add(fishB);
+
+            //Act
+            aquarium.SellFish(fishName);
+            var expectedName = fishName;
+            var actualName = aquarium.SellFish(fishName).Name;
+            var expectedAvailable = false;
+            var actualAvailable = aquarium.SellFish(fishName).Available;
+
+            //Assert
+            Assert.AreEqual(expectedName, actualName);
+            Assert.AreEqual(expectedAvailable, actualAvailable);
+        }
+        [Test]
+        [TestCase("Red")]
+        public void Aquarium_TestReport(string fishName)
+        {
+            //Arrange
+            Aquarium aquarium = new Aquarium("Aquarium", 10);
+            Fish fishR = new Fish("Red");
+            Fish fishB = new Fish("Black");
+
+            aquarium.Add(fishR);
+            aquarium.Add(fishB);
+
+            //Act
+            aquarium.SellFish(fishName);
+            var expectedMessage = $"Fish available at Aquarium: Red, Black";
+            var actualMessage = aquarium.Report();
+
+            //Assert
+            Assert.AreEqual(expectedMessage, actualMessage);
+        }
     }
 }

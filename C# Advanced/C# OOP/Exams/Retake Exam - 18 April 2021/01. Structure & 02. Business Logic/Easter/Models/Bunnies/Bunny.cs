@@ -14,7 +14,7 @@
 
         protected Bunny(string name, int energy)
         {
-            this._name = name;
+            this.Name = name;
             this.Energy = energy;
             this.Dyes = new List<IDye>();
         }

@@ -15,7 +15,7 @@
 
         protected Aquarium(string name, int capacity)
         {
-            this._name = name;
+            Name = name;
             Capacity = capacity;
 
             Decorations = new List<IDecoration>();

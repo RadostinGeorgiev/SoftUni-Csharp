@@ -7,10 +7,11 @@
     public class Egg : IEgg
     {
         private string _name;
+        private int _energyRequired;
 
         public Egg(string name, int energyRequired)
         {
-            this._name = name;
+            this.Name = name;
             this.EnergyRequired = energyRequired;
         }
 
@@ -29,7 +30,20 @@
             }
         }
 
-        public int EnergyRequired { get; private set; }
+        public int EnergyRequired
+        {
+            get => this._energyRequired;
+
+            private set
+            {
+                if (value < 0)
+                {
+                    value = 0;
+                }
+
+                this._energyRequired = value;
+            }
+        }
 
         public void GetColored()
         {
@@ -41,6 +55,6 @@
             }
         }
 
-        public bool IsDone() => EnergyRequired <= 0;
+        public bool IsDone() => EnergyRequired == 0;
     }
 }

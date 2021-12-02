@@ -36,6 +36,6 @@
             }
         }
 
-        public bool IsFinished() =>  Power <= 0;
+        public bool IsFinished() =>  Power == 0;
     }
 }
