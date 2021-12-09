@@ -2,7 +2,7 @@
 {
     using Contracts;
     using Racers.Contracts;
-    using Utilities.Messages;
+    using static Utilities.Messages.OutputMessages;
 
     public class Map : IMap
     {
@@ -11,26 +11,26 @@
         {
             if (!racerOne.IsAvailable() && !racerTwo.IsAvailable())
             {
-                return OutputMessages.RaceCannotBeCompleted;
+                return RaceCannotBeCompleted;
             }
 
             if (!racerOne.IsAvailable())
             {
                 this._winner = racerTwo;
-                return string.Format(OutputMessages.OneRacerIsNotAvailable, 
+                return string.Format(OneRacerIsNotAvailable, 
                     racerTwo.Username, racerOne.Username);
             }
 
             if (!racerTwo.IsAvailable())
             {
                 this._winner = racerOne;
-                return string.Format(OutputMessages.OneRacerIsNotAvailable, 
+                return string.Format(OneRacerIsNotAvailable, 
                     racerOne.Username, racerTwo.Username);
             }
 
             this._winner = RaceOnMap(racerOne) > RaceOnMap(racerTwo) ? racerOne : racerTwo;
 
-            return string.Format(OutputMessages.RacerWinsRace, 
+            return string.Format(RacerWinsRace, 
                 racerOne.Username, racerTwo.Username, this._winner.Username);
         }
 

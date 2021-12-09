@@ -3,8 +3,7 @@
     using System;
 
     using Contracts;
-
-    using Utilities.Messages;
+    using static Utilities.Messages.ExceptionMessages;
 
     public abstract class Car : ICar
     {
@@ -33,7 +32,7 @@
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidCarMake);
+                    throw new ArgumentException(InvalidCarMake);
                 }
 
                 this._make = value;
@@ -48,7 +47,7 @@
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidCarModel);
+                    throw new ArgumentException(InvalidCarModel);
                 }
 
                 this._model = value;
@@ -63,7 +62,7 @@
             {
                 if (value.Length != 17)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidCarVIN);
+                    throw new ArgumentException(InvalidCarVIN);
                 }
 
                 this._vin = value;
@@ -78,7 +77,7 @@
             {
                 if (value < 0)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidCarHorsePower);
+                    throw new ArgumentException(InvalidCarHorsePower);
                 }
 
 
@@ -101,7 +100,7 @@
             {
                 if (value < 0)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidCarFuelConsumption);
+                    throw new ArgumentException(InvalidCarFuelConsumption);
                 }
                 
                 this._fuelConsumptionPerRace = value;

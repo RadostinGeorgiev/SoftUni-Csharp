@@ -10,10 +10,12 @@ using SpaceStation.Models.Planets;
 using SpaceStation.Models.Planets.Contracts;
 using SpaceStation.Repositories;
 using SpaceStation.Repositories.Contracts;
-using SpaceStation.Utilities.Messages;
+using static SpaceStation.Utilities.Messages.ExceptionMessages;
+using static SpaceStation.Utilities.Messages.OutputMessages;
 
 namespace SpaceStation.Core
 {
+
     public class Controller : IController
     {
         private readonly IRepository<IAstronaut> astronautRepository;
@@ -44,11 +46,11 @@ namespace SpaceStation.Core
                     astronaut = new Meteorologist(astronautName);
                     break;
                 default:
-                    throw new InvalidOperationException(ExceptionMessages.InvalidAstronautType);
+                    throw new InvalidOperationException(InvalidAstronautType);
             }
 
             this.astronautRepository.Add(astronaut);
-            return string.Format(OutputMessages.AstronautAdded, type, astronautName);
+            return string.Format(AstronautAdded, type, astronautName);
         }
 
         public string AddPlanet(string planetName, params string[] items)
@@ -61,7 +63,7 @@ namespace SpaceStation.Core
             }
 
             this.planetRepository.Add(planet);
-            return string.Format(OutputMessages.PlanetAdded, planetName);
+            return string.Format(PlanetAdded, planetName);
         }
 
         public string RetireAstronaut(string astronautName)
@@ -71,11 +73,11 @@ namespace SpaceStation.Core
             if (astronaut == null)
             {
                 throw new InvalidOperationException
-                    (string.Format(ExceptionMessages.InvalidRetiredAstronaut, astronautName));
+                    (string.Format(InvalidRetiredAstronaut, astronautName));
             }
 
-            return this.astronautRepository.Remove(astronaut) 
-                ? string.Format(OutputMessages.AstronautRetired, astronautName) 
+            return this.astronautRepository.Remove(astronaut)
+                ? string.Format(AstronautRetired, astronautName)
                 : "";
         }
 
@@ -90,7 +92,7 @@ namespace SpaceStation.Core
             if (astronauts.Length == 0)
             {
                 throw new InvalidOperationException
-                    (ExceptionMessages.InvalidAstronautCount);
+                    (InvalidAstronautCount);
             }
 
             mission.Explore(planet, astronauts);
@@ -100,7 +102,7 @@ namespace SpaceStation.Core
                 .Models
                 .Where(a => !a.CanBreath)
                 .ToArray();
-            return string.Format(OutputMessages.PlanetExplored, planet.Name, deadAstronauts.Length);
+            return string.Format(PlanetExplored, planet.Name, deadAstronauts.Length);
 
         }
 

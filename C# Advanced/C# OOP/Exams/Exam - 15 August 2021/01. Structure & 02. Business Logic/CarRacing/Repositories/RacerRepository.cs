@@ -5,7 +5,7 @@
     using System.Linq;
     using Contracts;
     using Models.Racers.Contracts;
-    using Utilities.Messages;
+    using static Utilities.Messages.ExceptionMessages;
 
     public class RacerRepository : IRepository<IRacer>
     {
@@ -16,13 +16,14 @@
             this._models = new List<IRacer>();
         }
 
-        public IReadOnlyCollection<IRacer> Models => (IReadOnlyCollection<IRacer>)this._models;
+        public IReadOnlyCollection<IRacer> Models => 
+            (IReadOnlyCollection<IRacer>)this._models;
 
         public void Add(IRacer racer)
         {
             if (racer == null)
             {
-                throw new ArgumentException(ExceptionMessages.InvalidAddRacerRepository);
+                throw new ArgumentException(InvalidAddRacerRepository);
             }
 
             this._models.Add(racer);

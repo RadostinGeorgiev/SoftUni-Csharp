@@ -5,7 +5,7 @@
     using System.Linq;
     using Contracts;
     using Models.Cars.Contracts;
-    using Utilities.Messages;
+    using static Utilities.Messages.ExceptionMessages;
 
     public class CarRepository : IRepository<ICar>
     {
@@ -16,13 +16,14 @@
             this._models = new List<ICar>();
         }
 
-        public IReadOnlyCollection<ICar> Models => (IReadOnlyCollection<ICar>)this._models;
+        public IReadOnlyCollection<ICar> Models => 
+            (IReadOnlyCollection<ICar>)this._models;
 
         public void Add(ICar car)
         {
             if (car == null)
             {
-                throw new ArgumentException(ExceptionMessages.InvalidAddCarRepository);
+                throw new ArgumentException(InvalidAddCarRepository);
             }
 
             this._models.Add(car);

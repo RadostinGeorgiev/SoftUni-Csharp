@@ -3,7 +3,7 @@ using System.Text;
 using SpaceStation.Models.Astronauts.Contracts;
 using SpaceStation.Models.Bags;
 using SpaceStation.Models.Bags.Contracts;
-using SpaceStation.Utilities.Messages;
+using static SpaceStation.Utilities.Messages.ExceptionMessages;
 
 namespace SpaceStation.Models.Astronauts
 {
@@ -33,8 +33,7 @@ namespace SpaceStation.Models.Astronauts
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentNullException
-                        (ExceptionMessages.InvalidAstronautName);
+                    throw new ArgumentNullException(InvalidAstronautName);
                 }
 
                 this.name = value;
@@ -48,8 +47,7 @@ namespace SpaceStation.Models.Astronauts
             {
                 if (value < 0)
                 {
-                    throw new ArgumentException
-                        (ExceptionMessages.InvalidOxygen);
+                    throw new ArgumentException(InvalidOxygen);
                 }
 
                 this.oxygen = value;
@@ -73,10 +71,9 @@ namespace SpaceStation.Models.Astronauts
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"Name: {this.Name}");
-            sb.AppendLine($"Oxygen: {this.Oxygen}");
-
-            sb.AppendLine(this.Bag.Items.Count == 0
+            sb.AppendLine($"Name: {this.Name}")
+              .AppendLine($"Oxygen: {this.Oxygen}")
+              .AppendLine(this.Bag.Items.Count == 0
                 ? "Bag items: none"
                 : $"Bag items: {string.Join(", ", this.Bag.Items)}");
 

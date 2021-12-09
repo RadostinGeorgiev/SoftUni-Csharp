@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using SpaceStation.Models.Planets.Contracts;
-using SpaceStation.Utilities.Messages;
+using static SpaceStation.Utilities.Messages.ExceptionMessages;
 
 namespace SpaceStation.Models.Planets
 {
@@ -21,8 +21,7 @@ namespace SpaceStation.Models.Planets
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentNullException
-                        (ExceptionMessages.InvalidPlanetName);
+                    throw new ArgumentNullException(InvalidPlanetName);
                 }
 
                 this.name = value;

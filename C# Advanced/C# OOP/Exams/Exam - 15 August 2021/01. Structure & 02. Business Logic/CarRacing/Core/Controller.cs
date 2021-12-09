@@ -11,7 +11,8 @@
     using Models.Racers;
     using Models.Racers.Contracts;
     using Repositories;
-    using Utilities.Messages;
+    using static Utilities.Messages.ExceptionMessages;
+    using static Utilities.Messages.OutputMessages;
 
     public class Controller : IController
     {
@@ -32,12 +33,12 @@
             {
                 "SuperCar" => new SuperCar(make, model, VIN, horsePower),
                 "TunedCar" => new TunedCar(make, model, VIN, horsePower),
-                _ => throw new ArgumentException(ExceptionMessages.InvalidCarType)
+                _ => throw new ArgumentException(InvalidCarType)
             };
 
             this._cars.Add(car);
 
-            return string.Format(OutputMessages.SuccessfullyAddedCar,
+            return string.Format(SuccessfullyAddedCar,
                 car.Make, car.Model, car.VIN);
         }
 
@@ -47,19 +48,19 @@
 
             if (car == null)
             {
-                throw new ArgumentException(ExceptionMessages.CarCannotBeFound);
+                throw new ArgumentException(CarCannotBeFound);
             }
 
             IRacer racer = type switch
             {
                 "ProfessionalRacer" => new ProfessionalRacer(username, car),
                 "StreetRacer" => new StreetRacer(username, car),
-                _ => throw new ArgumentException(ExceptionMessages.InvalidRacerType)
+                _ => throw new ArgumentException(InvalidRacerType)
             };
 
             this._racers.Add(racer);
 
-            return string.Format(OutputMessages.SuccessfullyAddedRacer, racer.Username);
+            return string.Format(SuccessfullyAddedRacer, racer.Username);
         }
 
         public string BeginRace(string racerOneUsername, string racerTwoUsername)
@@ -69,14 +70,14 @@
             if (racerOne == null)
             {
                 throw new ArgumentException(
-                    string.Format(ExceptionMessages.RacerCannotBeFound, racerOneUsername));
+                    string.Format(RacerCannotBeFound, racerOneUsername));
             }
 
             IRacer racerTwo = this._racers.FindBy(racerTwoUsername);
             if (racerTwo == null)
             {
                 throw new ArgumentException(
-                    string.Format(ExceptionMessages.RacerCannotBeFound, racerTwoUsername));
+                    string.Format(RacerCannotBeFound, racerTwoUsername));
             }
 
             return this.map.StartRace(racerOne, racerTwo);

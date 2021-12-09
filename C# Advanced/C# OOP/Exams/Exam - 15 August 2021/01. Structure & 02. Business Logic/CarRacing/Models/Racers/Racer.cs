@@ -4,7 +4,7 @@
     using System.Text;
     using Cars.Contracts;
     using Contracts;
-    using Utilities.Messages;
+    using static Utilities.Messages.ExceptionMessages;
 
     public abstract class Racer : IRacer
     {
@@ -29,7 +29,7 @@
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidRacerName);
+                    throw new ArgumentException(InvalidRacerName);
                 }
 
                 this._username = value;
@@ -44,7 +44,7 @@
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidRacerBehavior);
+                    throw new ArgumentException(InvalidRacerBehavior);
                 }
 
                 this._racingBehavior = value;
@@ -59,7 +59,7 @@
             {
                 if (value < 0 || value > 100)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidRacerDrivingExperience);
+                    throw new ArgumentException(InvalidRacerDrivingExperience);
                 }
 
                 this._drivingExperience = value;
@@ -74,13 +74,14 @@
             {
                 if (value == null)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidRacerCar);
+                    throw new ArgumentException(InvalidRacerCar);
                 }
 
                 this._car = value;
             }
         }
-        public bool IsAvailable() => Car.FuelAvailable > Car.FuelConsumptionPerRace;
+        public bool IsAvailable() => 
+            Car.FuelAvailable > Car.FuelConsumptionPerRace;
 
         public virtual void Race()
         {
