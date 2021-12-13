@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpaceStation.Utilities.Messages.ExceptionMessages">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACCAAQAAAAAAQAAACAAAAAAAAAACAAA=</HashCode>
+      <FileName>Utilities\Messages\ExceptionMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceStation.Utilities.Messages.OutputMessages">
+    <Position X="17.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAQAIAAAAAAAAAAgA=</HashCode>
+      <FileName>Utilities\Messages\OutputMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceStation.Core.Controller" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAAAAAkAAAAAAAAAAAAAAgAAAAAAFAAAAAAAAABAA=</HashCode>
+      <FileName>Core\Controller.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.296" />
+  </Class>
+  <Class Name="SpaceStation.Core.Engine" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAII=</HashCode>
+      <FileName>Core\Engine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.266" />
+  </Class>
+  <Class Name="SpaceStation.IO.Reader" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\Reader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.308" />
+  </Class>
+  <Class Name="SpaceStation.IO.Writer" BaseTypeListCollapsed="true">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IO\Writer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.241" />
+  </Class>
+  <Class Name="SpaceStation.Models.Astronauts.Astronaut">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAkAAEAAAAAAQAIAAEAAAAIAAAACAAAAA=</HashCode>
+      <FileName>Models\Astronauts\Astronaut.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.246" />
+  </Class>
+  <Class Name="SpaceStation.Models.Astronauts.Biologist" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAIAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Models\Astronauts\Biologist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceStation.Models.Astronauts.Geodesist" Collapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Models\Astronauts\Geodesist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceStation.Models.Astronauts.Meteorologist" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Models\Astronauts\Meteorologist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceStation.Models.Bags.Backpack" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Bags\Backpack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.279" />
+  </Class>
+  <Class Name="SpaceStation.Models.Mission.Mission" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mission\Mission.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.221" />
+  </Class>
+  <Class Name="SpaceStation.Models.Planets.Planet" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Planets\Planet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.283" />
+  </Class>
+  <Class Name="SpaceStation.Repositories.AstronautRepository" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAAAKAAA=</HashCode>
+      <FileName>Repositories\AstronautRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.342" />
+  </Class>
+  <Class Name="SpaceStation.Repositories.PlanetRepository" BaseTypeListCollapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAQAAAAABAAAAAAAAAAAAAgAAAACAAA=</HashCode>
+      <FileName>Repositories\PlanetRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.371" />
+  </Class>
+  <Interface Name="SpaceStation.Core.Contracts.IController">
+    <Position X="12.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAgAAAAAABAAAAAAAAABAA=</HashCode>
+      <FileName>Core\Contracts\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SpaceStation.Core.Contracts.IEngine">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Core\Contracts\IEngine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SpaceStation.IO.Contracts.IReader">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\Contracts\IReader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SpaceStation.IO.Contracts.IWriter">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IO\Contracts\IWriter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SpaceStation.Models.Astronauts.Contracts.IAstronaut">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAgAAAAAAAAAQAIAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Models\Astronauts\Contracts\IAstronaut.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SpaceStation.Models.Bags.Contracts.IBag">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Bags\Contracts\IBag.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SpaceStation.Models.Mission.Contracts.IMission">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mission\Contracts\IMission.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SpaceStation.Models.Planets.Contracts.IPlanet">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Planets\Contracts\IPlanet.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SpaceStation.Repositories.Contracts.IRepository&lt;T&gt;">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAAACAAA=</HashCode>
+      <FileName>Repositories\Contracts\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

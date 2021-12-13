@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarRacing.Models.Cars.Car">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAImAAAAAAAAEgkAAAABgAAAIAggA=</HashCode>
+      <FileName>Models\Cars\Car.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.308" />
+  </Class>
+  <Class Name="CarRacing.Models.Cars.SuperCar" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Models\Cars\SuperCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRacing.Models.Cars.TunedCar" Collapsed="true">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Models\Cars\TunedCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRacing.Models.Maps.Map" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Maps\Map.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.237" Collapsed="true" />
+  </Class>
+  <Class Name="CarRacing.Models.Racers.ProfessionalRacer" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Racers\ProfessionalRacer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRacing.Models.Racers.Racer">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAAAAAAAQAAAAEAQAAAAAAAASAAAAAAAKAAIEAAAA=</HashCode>
+      <FileName>Models\Racers\Racer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.216" />
+  </Class>
+  <Class Name="CarRacing.Models.Racers.StreetRacer" Collapsed="true">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Racers\StreetRacer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRacing.Core.Controller" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAEAAAAAAAAAACAAAAAAAAAAAAAAAAAAABAAAABAA=</HashCode>
+      <FileName>Core\Controller.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.258" Collapsed="true" />
+  </Class>
+  <Class Name="CarRacing.Core.Engine" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAQAAI=</HashCode>
+      <FileName>Core\Engine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CarRacing.IO.Reader" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\Reader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.174" Collapsed="true" />
+  </Class>
+  <Class Name="CarRacing.IO.Writer" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IO\Writer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.237" Collapsed="true" />
+  </Class>
+  <Class Name="CarRacing.Utilities.Messages.ExceptionMessages">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAAABAAAAAABAACAkAAAAwAAAAFAEEAEAAAAA=</HashCode>
+      <FileName>Utilities\Messages\ExceptionMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRacing.Utilities.Messages.OutputMessages">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAgAAAAAgAA=</HashCode>
+      <FileName>Utilities\Messages\OutputMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarRacing.Repositories.CarRepository" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAwAAAAABAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Repositories\CarRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.233" Collapsed="true" />
+  </Class>
+  <Class Name="CarRacing.Repositories.RacerRepository" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAwAAAAABAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Repositories\RacerRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.208" Collapsed="true" />
+  </Class>
+  <Interface Name="CarRacing.Models.Cars.Contracts.ICar">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAkAAAAAgAAAIAggA=</HashCode>
+      <FileName>Models\Cars\Contracts\ICar.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CarRacing.Models.Maps.Contracts.IMap">
+    <Position X="9" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Maps\Contracts\IMap.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CarRacing.Models.Racers.Contracts.IRacer">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAQAAAAAAQAAAAAAAAAAAAAAAACAAIEAAAA=</HashCode>
+      <FileName>Models\Racers\Contracts\IRacer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CarRacing.Core.Contracts.IController">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAABAAAABAA=</HashCode>
+      <FileName>Core\Contracts\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CarRacing.Core.Contracts.IEngine">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Core\Contracts\IEngine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CarRacing.IO.Contracts.IReader">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO\Contracts\IReader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CarRacing.IO.Contracts.IWriter">
+    <Position X="4.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IO\Contracts\IWriter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CarRacing.Repositories.Contracts.IRepository&lt;T&gt;">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAgAAAAABAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Repositories\Contracts\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
