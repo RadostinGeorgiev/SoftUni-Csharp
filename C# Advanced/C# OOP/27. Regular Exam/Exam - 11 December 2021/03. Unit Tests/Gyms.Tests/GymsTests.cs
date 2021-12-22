@@ -141,7 +141,7 @@
             gym.AddAthlete(secondAthlete);
             gym.InjureAthlete("Second Athlete");
             var expectedMessage = $"Active athletes at Athletics: First Athlete";
-            var actualMessage = gym.Report();;
+            var actualMessage = gym.Report();
 
             Assert.AreEqual(expectedMessage, actualMessage);
         }
