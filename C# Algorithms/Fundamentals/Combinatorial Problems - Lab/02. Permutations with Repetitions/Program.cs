@@ -2,14 +2,18 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.Linq;
 
     class Program
     {
-        private static char[] elements = new[] { 'A', 'B', 'B' };
-        private HashSet<char> usedElements = new HashSet<char>();
+        private static char[] elements;
 
         static void Main(string[] args)
         {
+            elements = Console.ReadLine()
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                .Select(char.Parse)
+                .ToArray();
 
             GetPermutations(0);
         }
@@ -24,11 +28,18 @@
 
             GetPermutations(index + 1);
 
+            HashSet<char> usedElements = new HashSet<char> { elements[index] };
+
             for (int i = index + 1; i < elements.Length; i++)
             {
-                Swap(index, i);
-                GetPermutations(index + 1);
-                Swap(index, i);
+                if (!usedElements.Contains(elements[i]))
+                {
+                    Swap(index, i);
+                    GetPermutations(index + 1);
+                    Swap(index, i);
+
+                    usedElements.Add(elements[i]);
+                }
             }
         }
 
