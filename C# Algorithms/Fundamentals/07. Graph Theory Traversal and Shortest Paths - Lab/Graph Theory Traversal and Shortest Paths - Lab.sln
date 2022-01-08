@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Connected Components", "01. Connected Components\01. Connected Components.csproj", "{FC10B26C-0107-4818-8B21-474497AC0A4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Topological Sorting - DFS", "02. Topological Sorting - DFS\02. Topological Sorting - DFS.csproj", "{95044DCA-4431-4468-8031-A28F566A6556}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Topological Sorting - Source Removal", "02. Topological Sorting - Source Removal\02. Topological Sorting - Source Removal.csproj", "{A3E1DBB3-0C7A-4E82-B044-AD801557B26D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC10B26C-0107-4818-8B21-474497AC0A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC10B26C-0107-4818-8B21-474497AC0A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC10B26C-0107-4818-8B21-474497AC0A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC10B26C-0107-4818-8B21-474497AC0A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95044DCA-4431-4468-8031-A28F566A6556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95044DCA-4431-4468-8031-A28F566A6556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95044DCA-4431-4468-8031-A28F566A6556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95044DCA-4431-4468-8031-A28F566A6556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E1DBB3-0C7A-4E82-B044-AD801557B26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E1DBB3-0C7A-4E82-B044-AD801557B26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E1DBB3-0C7A-4E82-B044-AD801557B26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E1DBB3-0C7A-4E82-B044-AD801557B26D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DF432B0-381F-4A2B-B5D7-E008885C631E}
+	EndGlobalSection
+EndGlobal
