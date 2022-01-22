@@ -21,21 +21,18 @@ namespace ToyShop
 
             double totalAmount = (numPuzzles * puzzlesPrice) + (dolly * dollyPrice) + (bears * bearsPrice) + (minions * minionsPrice) + (lorry * lorryPrice);
             int toys = numPuzzles + dolly + bears + minions + lorry;
+
             if (toys >= 50)
             {
                 totalAmount -= totalAmount * 0.25;
             }
+
             double loan = totalAmount * 0.1;
             double rest = totalAmount - loan - excursionPrice;
 
-            if (rest >=0)
-            {
-                Console.WriteLine($"Yes! {rest:F2} lv left.");
-            }
-            else
-            {
-                Console.WriteLine($"Not enough money! {-rest:F2} lv needed.");
-            }
+            Console.WriteLine(rest >= 0 
+                ? $"Yes! {rest:F2} lv left." 
+                : $"Not enough money! {-rest:F2} lv needed.");
         }
     }
 }
