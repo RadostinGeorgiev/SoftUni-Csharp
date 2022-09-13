@@ -27,7 +27,7 @@
             startNode = int.Parse(Console.ReadLine());
             endNode = int.Parse(Console.ReadLine());
 
-            Dijkstra();
+            Dijkstra();             //Dijkstra's Algorithm O((V+E).logV)
         }
 
         private static void CreateNodeEdgesGraphFromConsole(int edges)
