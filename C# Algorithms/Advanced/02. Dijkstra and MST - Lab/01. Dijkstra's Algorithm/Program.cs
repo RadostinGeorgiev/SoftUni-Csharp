@@ -82,10 +82,15 @@
 
             while (priorityQueue.Count != 0)
             {
-                var minNode = priorityQueue.Min;                  //dequeue the smallest node from Q
+                var minNode = priorityQueue.Min;                            //dequeue the smallest node from Q
                 priorityQueue.Remove(minNode);
 
                 if (double.IsPositiveInfinity(distance[minNode]))           //we have a node without available path
+                {
+                    break;
+                }
+
+                if (minNode == endNode)                                     //if we have known end node
                 {
                     break;
                 }
