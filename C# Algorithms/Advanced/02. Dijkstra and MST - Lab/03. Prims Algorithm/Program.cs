@@ -1,108 +1,141 @@
 ﻿namespace _03._Prims_Algorithm
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using Wintellect.PowerCollections;
+	using System;
+	using System.Collections.Generic;
+	using System.Linq;
 
-    class Edge
-    {
-        public int First { get; set; }
-        public int Second { get; set; }
-        public int Weight { get; set; }
-    }
-    internal class Program
-    {
-        static Dictionary<int, List<Edge>> graph;
-        static List<int> spanningTreeNodes;
-        static void Main(string[] args)
-        {
-            int number = int.Parse(Console.ReadLine());
+	internal class Edge : IComparable<Edge>
+	{
+		public int First { get; set; }
+		public int Second { get; set; }
+		public int Weight { get; set; }
 
-            //Prim's Algorithm  O(E + V.logV) -> for larger graphs; necessary specified start node
-            CreateNodeEdgesGraphFromConsole(number);
-            MSTPrim();
-        }
+		public override string ToString()
+		{
+			//return string.Format($"({this.First}-{this.Second}) -> {this.Weight}");
+			return string.Format($"{First} - {Second}");
+		}
 
-        private static void CreateNodeEdgesGraphFromConsole(int edges)
-        {
-            graph = new Dictionary<int, List<Edge>>();
+		public int CompareTo(Edge other)
+		{
+			int result = Weight.CompareTo(other.Weight);
+			return result;
+		}
+	}
 
-            for (int i = 0; i < edges; i++)
-            {
-                var edgeData = Console.ReadLine()
-                                        .Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries)
-                                        .Select(int.Parse)
-                                        .ToArray();
+	internal class Graph
+	{
+		public int EdgesCount { get; set; }
+		public Dictionary<int, List<Edge>> Edges;
 
-                int firstNode = edgeData[0];
-                int secondNode = edgeData[1];
+		public Graph(int edgesCount)
+		{
+			EdgesCount = edgesCount;
+			this.Edges = new Dictionary<int, List<Edge>>();
+		}
+	}
 
-                var edge = new Edge
-                {
-                    First = firstNode,
-                    Second = secondNode,
-                    Weight = edgeData[2],
-                };
+	internal class Program
+	{
+		private static void Main(string[] args)
+		{
+			int number = int.Parse(Console.ReadLine());
+			Graph graph = new Graph(number);
+			graph = ReadGraphFromConsole(graph);
 
-                if (!graph.ContainsKey(firstNode))
-                {
-                    graph.Add(firstNode, new List<Edge>());
-                }
-                if (!graph.ContainsKey(secondNode))
-                {
-                    graph.Add(secondNode, new List<Edge>());
-                }
+			//Prim's Algorithm  O(E + V.logV) -> for larger graphs; necessary specified start node
+			List<Edge> MST = MSTPrim(graph);
 
-                graph[firstNode].Add(edge);
-                graph[secondNode].Add(edge);
-            }
-        }
+			Console.WriteLine(string.Join(Environment.NewLine, MST));
+		}
 
-        private static void MSTPrim()
-        {
-            spanningTreeNodes = new List<int>();
+		private static Graph ReadGraphFromConsole(Graph graph)
+		{
+			for (int i = 0; i < graph.EdgesCount; i++)
+			{
+				int[] edgeData = Console.ReadLine()
+										.Split(", ")
+										.Select(int.Parse)
+										.ToArray();
+				int firstNode = edgeData[0];
+				int secondNode = edgeData[1];
 
-            foreach (var node in graph.Keys)
-            {
-                if (!spanningTreeNodes.Contains(node))
-                {
-                    Prim(node);
-                }
-            };
-        }
-        private static void Prim(int startNode)
-        {
-            var priorityQueue = new OrderedBag<Edge>(
-                Comparer<Edge>.Create((f, s) => f.Weight - s.Weight));
+				if (!graph.Edges.ContainsKey(firstNode))
+				{
+					graph.Edges.Add(firstNode, new List<Edge>());
+				}
 
-            spanningTreeNodes.Add(startNode);                       //add startNode in spanningTree
-            priorityQueue.AddMany(graph[startNode]);                //add startNode edge in queue
+				if (!graph.Edges.ContainsKey(secondNode))
+				{
+					graph.Edges.Add(secondNode, new List<Edge>());
+				}
 
-            while (priorityQueue.Count != 0)
-            {
-                var minEdge = priorityQueue.RemoveFirst();          //get edge with min weight from queue
+				Edge edge = new Edge
+				{
+					First = firstNode,
+					Second = secondNode,
+					Weight = edgeData[2]
+				};
 
-                int nonTreeNode = -1;                               //check if nodes of this edge are part of the tree
-                if (spanningTreeNodes.Contains(minEdge.First) &&
-                    !spanningTreeNodes.Contains(minEdge.Second))
-                {
-                    nonTreeNode = minEdge.Second;
-                }
-                if (spanningTreeNodes.Contains(minEdge.Second) &&
-                    !spanningTreeNodes.Contains(minEdge.First))
-                {
-                    nonTreeNode = minEdge.First;
-                }
+				graph.Edges[firstNode].Add(edge);
+				graph.Edges[secondNode].Add(edge);
+			}
 
-                if (nonTreeNode != -1)                              //if we have only one node as part of the tree:
-                {
-                    Console.WriteLine($"{minEdge.First} - {minEdge.Second}");   //print edge
+			return graph;
+		}
 
-                    spanningTreeNodes.Add(nonTreeNode);             //add this edge to the tree
-                    priorityQueue.AddMany(graph[nonTreeNode]);      //add edges of the nonTree node to the queue 
-                }
-            }
-        }
-    }
+		private static List<Edge> MSTPrim(Graph graph)
+		{
+			List<Edge> spanningTree = new List<Edge>();
+			HashSet<int> spanningTreeNodes = new HashSet<int>();
+
+			foreach (int node in graph.Edges.Keys)
+			{
+				if (!spanningTreeNodes.Contains(node))
+				{
+					Prim(graph, node, spanningTree, spanningTreeNodes);
+				}
+			}
+
+			return spanningTree;
+
+			static void Prim(Graph graph,
+				int startNode,
+				List<Edge> spanningTree,
+				HashSet<int> spanningTreeNodes)
+			{
+				List<Edge> priorityQueue = new List<Edge>();
+				spanningTreeNodes.Add(startNode);                               //add startNode in spanningTree
+				priorityQueue.AddRange(graph.Edges[startNode]);            //add startNode edge in queue
+				priorityQueue.Sort();
+
+				while (priorityQueue.Count != 0)
+				{
+					Edge minEdge = priorityQueue.First();							 //get edge with min weight from queue
+					priorityQueue.Remove(minEdge);
+					int nonTreeNode = -1;                                            //check if nodes of this edge are part of the tree
+
+					if (spanningTreeNodes.Contains(minEdge.First)
+						&& !spanningTreeNodes.Contains(minEdge.Second))
+					{
+						nonTreeNode = minEdge.Second;
+					}
+
+					if (spanningTreeNodes.Contains(minEdge.Second)
+						&& !spanningTreeNodes.Contains(minEdge.First))
+					{
+						nonTreeNode = minEdge.First;
+					}
+
+					if (nonTreeNode != -1)                                           //if we have only one node as part of the tree:
+					{
+						spanningTree.Add(minEdge);                              //add edge in spanning tree 
+						spanningTreeNodes.Add(nonTreeNode);                     //add this edge to the tree
+						priorityQueue.AddRange(graph.Edges[nonTreeNode]);  //add edges of the nonTree node to the queue 
+						priorityQueue.Sort();
+					}
+				}
+			}
+		}
+	}
 }

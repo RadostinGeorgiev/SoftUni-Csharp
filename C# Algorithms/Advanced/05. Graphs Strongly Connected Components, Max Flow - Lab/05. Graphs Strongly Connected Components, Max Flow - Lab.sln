@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Strongly Connected Components", "01. Strongly Connected Components\01. Strongly Connected Components.csproj", "{964A0081-9DF6-4E37-A4F1-38CFFBDD8295}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Max Flow algorithm - Edmonds-Karp", "02. Max Flow algorithm - Edmonds-Karp\02. Max Flow algorithm - Edmonds-Karp.csproj", "{74A3325D-BF6D-4706-BB01-95963AD386B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Articulation Points", "03. Articulation Points\03. Articulation Points.csproj", "{397B524A-4152-4FA5-A7E1-88A2BDDB544B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Max Flow algorithm - Edmonds-Karp - OOP", "02. Max Flow algorithm - Edmonds-Karp - OOP\02. Max Flow algorithm - Edmonds-Karp - OOP.csproj", "{EA5DB4B6-E8EF-4E57-AD9C-21325255D07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964A0081-9DF6-4E37-A4F1-38CFFBDD8295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964A0081-9DF6-4E37-A4F1-38CFFBDD8295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964A0081-9DF6-4E37-A4F1-38CFFBDD8295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964A0081-9DF6-4E37-A4F1-38CFFBDD8295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A3325D-BF6D-4706-BB01-95963AD386B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A3325D-BF6D-4706-BB01-95963AD386B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A3325D-BF6D-4706-BB01-95963AD386B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A3325D-BF6D-4706-BB01-95963AD386B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397B524A-4152-4FA5-A7E1-88A2BDDB544B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397B524A-4152-4FA5-A7E1-88A2BDDB544B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397B524A-4152-4FA5-A7E1-88A2BDDB544B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397B524A-4152-4FA5-A7E1-88A2BDDB544B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5DB4B6-E8EF-4E57-AD9C-21325255D07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5DB4B6-E8EF-4E57-AD9C-21325255D07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5DB4B6-E8EF-4E57-AD9C-21325255D07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5DB4B6-E8EF-4E57-AD9C-21325255D07A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C99BEA1B-3834-4E11-8269-57A17223C246}
+	EndGlobalSection
+EndGlobal

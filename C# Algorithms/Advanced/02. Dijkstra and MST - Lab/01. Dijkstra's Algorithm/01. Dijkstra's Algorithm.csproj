@@ -6,4 +6,8 @@
     <RootNamespace>Dijkstra_and_MST___Lab</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="XAct.Wintellect.PowerCollections" Version="0.0.1" />
+  </ItemGroup>
+
 </Project>
