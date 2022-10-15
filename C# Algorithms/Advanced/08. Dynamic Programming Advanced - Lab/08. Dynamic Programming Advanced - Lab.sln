@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Rod Cutting", "01. Rod Cutting\01. Rod Cutting.csproj", "{41C978A8-C0B6-4DB0-B027-DCC4ECE1014E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. 0-1 Knapsack", "02. 0-1 Knapsack\02. 0-1 Knapsack.csproj", "{A0B2FB43-88AB-445F-A6D0-20A7FA56EB93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Longest Increasing Subsequence", "03. Longest Increasing Subsequence\03. Longest Increasing Subsequence.csproj", "{E190EE8B-A109-48F3-9497-1CA0F78FDF5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C978A8-C0B6-4DB0-B027-DCC4ECE1014E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C978A8-C0B6-4DB0-B027-DCC4ECE1014E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C978A8-C0B6-4DB0-B027-DCC4ECE1014E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C978A8-C0B6-4DB0-B027-DCC4ECE1014E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B2FB43-88AB-445F-A6D0-20A7FA56EB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B2FB43-88AB-445F-A6D0-20A7FA56EB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B2FB43-88AB-445F-A6D0-20A7FA56EB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B2FB43-88AB-445F-A6D0-20A7FA56EB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E190EE8B-A109-48F3-9497-1CA0F78FDF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E190EE8B-A109-48F3-9497-1CA0F78FDF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E190EE8B-A109-48F3-9497-1CA0F78FDF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E190EE8B-A109-48F3-9497-1CA0F78FDF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CA728CA-96EF-4053-A3B0-20DDC26B3DD4}
+	EndGlobalSection
+EndGlobal
