@@ -96,12 +96,14 @@
             Dijkstra(Graph graph, int startNode, int endNode, out int[] parents)    //return distances array
         {
             double[] distances = new double[graph.Edges.Keys.Max() + 1];
-            Array.Fill(distances, double.PositiveInfinity);              //init all distances with positive infinity
-
+            parents = new int[graph.Edges.Keys.Max() + 1];
             distances[startNode] = 0;
 
-            parents = new int[graph.Edges.Keys.Max() + 1];
-            Array.Fill(parents, -1);
+            for (int i = 0; i < distances.Length; i++)
+            {
+                distances[i] = double.PositiveInfinity;
+                parents[i] = -1;
+            }
 
             //priority queue holding nodes ordered by distance d[]
             var priorityQueue =
