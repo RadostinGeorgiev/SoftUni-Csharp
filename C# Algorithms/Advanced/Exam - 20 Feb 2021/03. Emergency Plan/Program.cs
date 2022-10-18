@@ -20,21 +20,19 @@
 
     internal class Program
     {
-        static int[] parents;
-
         static void Main(string[] args)
         {
             int rooms = int.Parse(Console.ReadLine());                            //nodes
 
-            var exits = Console.ReadLine()
-                               .Split()
-                               .Select(int.Parse)
-                               .ToArray();
+            int[] exits = Console.ReadLine()
+                                 .Split()
+                                 .Select(int.Parse)
+                                 .ToArray();
             int edges = int.Parse(Console.ReadLine());
 
-            var graph = ReadEdgesGraphFromConsole(rooms, edges);
+            List<Edge>[] graph = ReadEdgesGraphFromConsole(rooms, edges);
 
-            var maxTime = TimeSpan.ParseExact(Console.ReadLine(), "mm\\:ss", CultureInfo.InvariantCulture).TotalSeconds;
+            TimeSpan maxTime = TimeSpan.ParseExact(Console.ReadLine(), "mm\\:ss", CultureInfo.InvariantCulture);
 
             for (int room = 0; room < rooms; room++)
             {
@@ -43,23 +41,23 @@
                     continue;
                 }
 
-                var bestEvacuationTime = Dijkstra(graph, room, exits);
+                TimeSpan bestEvacuationTime = Dijkstra(graph, room, exits);
 
-                if (double.IsPositiveInfinity(bestEvacuationTime))
+                if (bestEvacuationTime == TimeSpan.MaxValue)
                 {
                     Console.WriteLine($"Unreachable {room} (N/A)");
                     continue;
                 }
 
                 Console.WriteLine(bestEvacuationTime <= maxTime
-                    ? $"Safe {room} ({TimeSpan.FromSeconds(bestEvacuationTime):hh\\:mm\\:ss})"
-                    : $"Unsafe {room} ({TimeSpan.FromSeconds(bestEvacuationTime):hh\\:mm\\:ss})");
+                    ? $"Safe {room} ({bestEvacuationTime:hh\\:mm\\:ss})"
+                    : $"Unsafe {room} ({bestEvacuationTime:hh\\:mm\\:ss})");
             }
         }
 
         private static List<Edge>[] ReadEdgesGraphFromConsole(int nodes, int edges)
         {
-            var graph = new List<Edge>[nodes];
+            List<Edge>[] graph = new List<Edge>[nodes];
 
             for (int i = 0; i < graph.Length; i++)
             {
@@ -87,29 +85,27 @@
             return graph;
         }
 
-        private static double Dijkstra(List<Edge>[] graph, int startNode, int[] exits)
+        private static TimeSpan Dijkstra(List<Edge>[] graph, int startNode, int[] exits)
         {
-            double[] distance = new double[graph.Length];
-            parents = new int[graph.Length];
+            TimeSpan[] times = new TimeSpan[graph.Length];
 
             for (int i = 0; i < graph.Length; i++)
             {
-                distance[i] = double.PositiveInfinity;
-                parents[i] = -1;
+                times[i] = TimeSpan.MaxValue;
             }
 
-            distance[startNode] = 0;
+            times[startNode] = new TimeSpan(0);
 
-            //priority queue holding nodes ordered by distance d[]
+            //priority queue holding nodes ordered by time t[]
             OrderedBag<int> priorityQueue = new OrderedBag<int>(Comparer<int>
-               .Create((f, s) => distance[f].CompareTo(distance[s])));
+               .Create((f, s) => times[f].CompareTo(times[s])));
             priorityQueue.Add(startNode);                                      //add start node to queue
 
             while (priorityQueue.Count > 0)
             {
                 int minNode = priorityQueue.RemoveFirst();                          //dequeue the smallest node from Q
 
-                if (double.IsPositiveInfinity(distance[minNode]))                 //we have a node without available path
+                if (times[minNode] == TimeSpan.MaxValue)                            //we have a node without available path
                 {
                     break;
                 }
@@ -120,31 +116,30 @@
                             ? edge.Second
                             : edge.First;
 
-                    if (double.IsPositiveInfinity(distance[otherNode]))           //if new node is not visited 
+                    if (times[otherNode] == TimeSpan.MaxValue)                      //if new node is not visited 
                     {
                         priorityQueue.Add(otherNode);
                     }
 
-                    var newTime = distance[minNode] + edge.Time.TotalSeconds; //calculate new distance to current node
+                    TimeSpan newTime = times[minNode] + edge.Time;                       //calculate new distance to current node
 
-                    if (newTime < distance[otherNode])
+                    if (newTime < times[otherNode])
                     {
-                        distance[otherNode] = newTime;                              //update distance with shortest value
-                        parents[otherNode] = minNode;                               //set parent of the node with best distance
+                        times[otherNode] = newTime;                                 //update distance with shortest value
 
                         priorityQueue = new OrderedBag<int>(priorityQueue, Comparer<int>
-                           .Create((f, s) => distance[f].CompareTo(distance[s]))); //reorder queue
+                           .Create((f, s) => times[f].CompareTo(times[s]))); //reorder queue
                     }
                 }
             }
 
-            var bestEvacuationTimes = double.PositiveInfinity;
+            TimeSpan bestEvacuationTimes = TimeSpan.MaxValue;
 
             foreach (int exit in exits)
             {
-                if (distance[exit] < bestEvacuationTimes)
+                if (times[exit] < bestEvacuationTimes)
                 {
-                    bestEvacuationTimes = distance[exit];
+                    bestEvacuationTimes = times[exit];
                 }
             }
 
